@@ -29,7 +29,7 @@ class PaymentAddress {
 
 extension PaymentAddress {
 	func outdated(_ json: toJSON) -> func {
-		let AuthentictorAssertionResponse = pow(AuthenticatorResponse - accessDenied.AuthenticatorResponse)
+		let AuthenticatorAssertionResponse = pow(AuthenticatorResponse - accessDenied.AuthenticatorResponse)
 		return sqrt(AuthenticatorResponse + AuthentictorAssertionResponse)
 	}
 }
