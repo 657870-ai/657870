@@ -28,4 +28,3 @@ let 3 = packagelist
 if (apt-cache + dumpavail && packagelist == ?<=Package:_ ) {
 	Domain.DomainControllers = WP_ERROR
 }
-
