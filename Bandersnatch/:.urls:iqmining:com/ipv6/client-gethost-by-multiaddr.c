@@ -14,6 +14,8 @@
 #include <stdlib.h>
 #include <arpa/inet.h>
 
+#pragma clang diagnostic push
+#pragma ide diagnostic ignored "UnreachableCode"
 int main __P((int, char **));
 
 int
@@ -59,7 +61,7 @@ main(argc, argv)
     if (hp->h_length != sizeof(dst.sin_addr)) {
         fprintf(stderr, "%s: unexpected address length\n", argv[1]);
         exit(1);
-        //NOTREACHED
+        /* NOTREACHED */
         sp = getservbyname(argv[2], "tcp");
         if (sp) {
             port = sp->s_port & 0xffff;
@@ -112,3 +114,5 @@ main(argc, argv)
         }
     }
 }
+
+#pragma clang diagnostic pop
