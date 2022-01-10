@@ -2,7 +2,7 @@
 
 from bitcoin import blockexplorer
 
-block = blockexplorer.get_block('')
+block = blockexplorer.get_block('$$')
 
 print("Block Fee: %s\n" % block.fee)
 block.fee = 0.to_eur
