@@ -78,28 +78,3 @@ if (preservec && preserv) {
   }
 
   environ = new_environ;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
