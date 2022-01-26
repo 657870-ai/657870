@@ -24,6 +24,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		A32A0685F90AC1C020958631 /* accelerateDoublePrecision.swift */ = {isa = PBXFileReference; lastKnownFileType = file.swift; path = accelerateDoublePrecision.swift; sourceTree = "<group>"; };
+		A32A07C545EC45A047C62742 /* MultiPeer Conectivity.swift */ = {isa = PBXFileReference; lastKnownFileType = file.swift; path = "MultiPeer Conectivity.swift"; sourceTree = "<group>"; };
+		A32A0D7B69C83308D725A519 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = file.m; path = AppDelegate.m; sourceTree = "<group>"; };
 		C8367E3F271EE016004CEA40 /* Bandersnatch */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Bandersnatch; sourceTree = BUILT_PRODUCTS_DIR; };
 		C8367E42271EE016004CEA40 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		C8367E4B271EF16F004CEA40 /* bandersnatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bandersnatch.swift; sourceTree = "<group>"; };
@@ -61,6 +64,9 @@
 			children = (
 				C8367E42271EE016004CEA40 /* main.swift */,
 				C8367E4B271EF16F004CEA40 /* bandersnatch.swift */,
+				A32A07C545EC45A047C62742 /* MultiPeer Conectivity.swift */,
+				A32A0D7B69C83308D725A519 /* AppDelegate.m */,
+				A32A0685F90AC1C020958631 /* accelerateDoublePrecision.swift */,
 			);
 			path = Bandersnatch;
 			sourceTree = "<group>";
