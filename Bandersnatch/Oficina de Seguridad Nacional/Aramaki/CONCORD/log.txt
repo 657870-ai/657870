@@ -1,0 +1,898 @@
+[14:46:00.518] M [CLIENT] Exe module file: \private\var\containers\Bundle\Application\E051B472-3862-488B-A9C5-9D57D01B2672\g85naxx2gb.app\g85naxx2gb
+[14:46:00.518] M [CLIENT] Current directory: /private/var/containers/Bundle/Application/E051B472-3862-488B-A9C5-9D57D01B2672/g85naxx2gb.app
+[14:46:00.518] M [CLIENT] Initializing client....
+[14:46:00.518] M [GAME] Init utils.dll (1063838562)
+[14:46:00.524] M [IOS] application:willFinishLaunchingWithOptions:withConfig: return 1
+[14:46:00.566] M [IOS] application:supportedInterfaceOrientationsForWindow:
+[14:46:00.566] M [IOS] application:supportedInterfaceOrientationsForWindow: return 24
+[14:46:00.568] M [IOS] application:supportedInterfaceOrientationsForWindow:
+[14:46:00.568] M [IOS] application:supportedInterfaceOrientationsForWindow: return 24
+[14:46:00.568] M [IOS] application:supportedInterfaceOrientationsForWindow:
+[14:46:00.568] M [IOS] application:supportedInterfaceOrientationsForWindow: return 24
+[14:46:00.568] M [IOS] application:supportedInterfaceOrientationsForWindow:
+[14:46:00.568] M [IOS] application:supportedInterfaceOrientationsForWindow: return 24
+[14:46:00.569] M [IOS] application:supportedInterfaceOrientationsForWindow:
+[14:46:00.569] M [IOS] application:supportedInterfaceOrientationsForWindow: return 24
+[14:46:00.581] M [IOS] application:didFinishLaunchingWithOptions:
+[14:46:00.648] M [IOS] application:supportedInterfaceOrientationsForWindow:
+[14:46:00.655] M [IOS] application:supportedInterfaceOrientationsForWindow: return 24
+[14:46:00.655] M [IOS] application:didFinishLaunchingWithOptions: return 1
+[14:46:00.663] M [FILESYSTEM] Succeeded to create FileLoader, opener os, loader discrete, root \private\var\mobile\Containers\Data\Application\709B29BA-FA39-46C6-A145-439B1F4D017F\Documents\res, depth 0
+[14:46:00.663] M [FILESYSTEM] Succeeded to create FileLoader, opener os, loader evepatch, root \private\var\mobile\Containers\Data\Application\709B29BA-FA39-46C6-A145-439B1F4D017F\Documents\0\1, depth 0
+[14:46:00.663] M [FILESYSTEM] Succeeded to create FileLoader, opener os, loader discrete, root \private\var\containers\Bundle\Application\E051B472-3862-488B-A9C5-9D57D01B2672\g85naxx2gb.app\res, depth 0
+[14:46:00.669] M [FILESYSTEM] Package /private/var/containers/Bundle/Application/E051B472-3862-488B-A9C5-9D57D01B2672/g85naxx2gb.app/res.npk (size 1884799208) under opener cfile is loaded.
+[14:46:00.669] M [FILESYSTEM] Succeeded to create FileLoader, opener os, loader npk, root \private\var\containers\Bundle\Application\E051B472-3862-488B-A9C5-9D57D01B2672\g85naxx2gb.app\res, depth 0
+[14:46:00.669] M [FILESYSTEM] Succeeded to create FileLoader, opener os, loader evepatch, root \private\var\mobile\Containers\Data\Application\709B29BA-FA39-46C6-A145-439B1F4D017F\Documents\0\0, depth 0
+[14:46:00.671] M [FILESYSTEM] Package /private/var/containers/Bundle/Application/E051B472-3862-488B-A9C5-9D57D01B2672/g85naxx2gb.app/script.npk (size 13209712) under opener cfile is loaded.
+[14:46:00.671] M [FILESYSTEM] Succeeded to create FileLoader, opener os, loader npk, root \private\var\containers\Bundle\Application\E051B472-3862-488B-A9C5-9D57D01B2672\g85naxx2gb.app\script, depth 0
+[14:46:00.671] M [GAME] Init utils.dll (1063838562)
+[14:46:00.672] M [GAME] Start utils.dll
+[14:46:00.672] M [GAME] Init render.dll (1202430036)
+[14:46:00.672] M [RENDER] CPU Name , core count of this device is: 2
+[14:46:00.672] M [RENDER] device model is iPhone8,1
+[14:46:00.672] M [GAME] Init python.dll (2389351893)
+[14:46:00.672] M [GAME] Init audio.dll (578984847)
+[14:46:00.688] M [GAME] Init world.dll (1725170211)
+[14:46:00.688] M [GAME] Init terrain.dll (859673349)
+[14:46:00.688] M [GAME] Init expanse.dll (2590033102)
+[14:46:00.688] M [GAME] Init collision.dll (3226119097)
+[14:46:00.688] M [GAME] Init voice.dll (809358187)
+[14:46:00.688] M [GAME] Init cocosui.dll (2354798637)
+[14:46:00.689] M [GAME] Init nxcclive.dll (4178439132)
+[14:46:00.689] M [GAME] Init nxapp.dll (2664184578)
+[14:46:00.689] M [GAME] Init nxgui.dll (2052274302)
+[14:46:00.689] M [GAME] Start render.dll
+[14:46:00.689] M [GAME] Start python.dll
+[14:46:00.689] M [GAME] Start audio.dll
+[14:46:00.689] M [GAME] Start world.dll
+[14:46:00.689] M [GAME] Start terrain.dll
+[14:46:00.689] M [GAME] Start expanse.dll
+[14:46:00.689] M [GAME] Start collision.dll
+[14:46:00.689] M [GAME] Start voice.dll
+[14:46:00.689] M [GAME] Start cocosui.dll
+[14:46:00.689] M [GAME] Start nxcclive.dll
+[14:46:00.689] M [GAME] Start nxapp.dll
+[14:46:00.689] M [GAME] Start nxgui.dll
+[14:46:00.696] M [RENDER] Driver: Metal
+[14:46:00.697] M [RENDER] Description: Apple A9 GPU
+[14:46:00.697] M [RENDER] Version: 1.0
+[14:46:00.697] M [RENDER] Vendor: Apple
+[14:46:00.697] M [RENDER] Width: 1334, Height: 750, BitDepth: 40
+[14:46:00.697] M [RENDER] -----------------------------------------------------------
+[14:46:00.697] M [RENDER] Apple A9 GPU
+[14:46:00.699] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/debug_common.fx, tech name: TShader, macro id: 0.
+[14:46:00.699] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\debug_common.nfx.
+
+ERROR *****************************************************************************
+[14:46:00.705] M [RENDER] Texture file "common/textures/cloud.dds" is not found!
+
+[14:46:00.706] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/debug_landscape.nfx, tech name: LandscapeTech, macro id: 0.
+[14:46:00.706] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\debug_landscape.nfx.
+[14:46:00.714] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: common\shader\simpletech.fx, tech name: TShader, macro id: 1728860963.
+[14:46:00.714] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: common\shader\simpletech.nfx.
+[14:46:00.719] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: common\shader\simpletech.fx, tech name: TShader, macro id: 3692445482.
+[14:46:00.719] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: common\shader\simpletech.nfx.
+[14:46:00.964] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: common/shader/cleardepth.nfx, tech name: TShader, macro id: 0.
+[14:46:00.964] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: common\shader\cleardepth.nfx.
+[14:46:00.968] M [RENDER] Set render mode: 1334 750 32 1 1
+[14:46:01.035] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: common/shader/blendadd.fx, tech name: TShader, macro id: 0.
+[14:46:01.036] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: common\shader\blendadd.nfx.
+[14:46:01.040] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: common\shader\simpletech.fx, tech name: TShader, macro id: 1405029353.
+[14:46:01.040] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: common\shader\simpletech.nfx.
+[14:46:01.043] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: common\shader\simpletech.fx, tech name: TShader, macro id: 3981771041.
+[14:46:01.043] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: common\shader\simpletech.nfx.
+[14:46:01.045] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: common\shader\simpletech.fx, tech name: TShader, macro id: 1566948284.
+[14:46:01.046] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: common\shader\simpletech.nfx.
+[14:46:01.048] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: common\shader\simpletech.fx, tech name: TShader, macro id: 2082255924.
+[14:46:01.048] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: common\shader\simpletech.nfx.
+[14:46:01.051] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: common\shader\simpletech.fx, tech name: TShader, macro id: 1269606931.
+[14:46:01.051] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: common\shader\simpletech.nfx.
+[14:46:01.054] M [WORLD] pixel decal enable: false
+[14:46:01.403] M [PYTHON] NewType world.track: 0x117a17d80
+[14:46:01.403] M [PYTHON] NewType world.space_object: 0x117a17f10
+[14:46:01.403] M [PYTHON] NewType world.visibleobject: 0x117a18410
+[14:46:01.403] M [PYTHON] NewType world.sfx: 0x117a185a0
+[14:46:01.403] M [PYTHON] NewType render.multipassdata: 0x117a18e00
+[14:46:01.403] M [PYTHON] NewType world.model: 0x117a19130
+[14:46:01.404] M [PYTHON] NewType world.impactoverlay: 0x117a19680
+[14:46:01.404] M [PYTHON] NewType world.primitives: 0x117a199b0
+[14:46:01.404] M [PYTHON] NewType world.primitives_eve: 0x117a19e10
+[14:46:01.404] M [PYTHON] NewType world.textobject: 0x117a1a270
+[14:46:01.404] M [PYTHON] NewType world.simuiobject: 0x117a1a760
+[14:46:01.404] M [PYTHON] NewType world.nxuiobject: 0x117a1ad50
+[14:46:01.404] M [PYTHON] NewType world.camera: 0x117a1aee0
+[14:46:01.404] M [PYTHON] NewType world.ClothWind: 0x117a1b340
+[14:46:01.404] M [PYTHON] NewType world.decal: 0x117a1b670
+[14:46:01.404] M [PYTHON] NewType world.deferred_decal: 0x117a1b9a0
+[14:46:01.404] M [PYTHON] NewType world.light: 0x117a1bc90
+[14:46:01.404] M [PYTHON] NewType world.anim_ctrl: 0x117a1c390
+[14:46:01.404] M [PYTHON] NewType world.scene: 0x117a1c7f0
+[14:46:01.405] M [PYTHON] NewType world.ikbone: 0x117a1cb60
+[14:46:01.405] M [PYTHON] NewType world.scene_trigger: 0x117a1cec0
+[14:46:01.405] M [PYTHON] NewType world.iksolver: 0x117a1d1f0
+[14:46:01.405] M [PYTHON] NewType world.turrent_fire_sfx: 0x117a1d520
+[14:46:01.405] M [PYTHON] NewType world.spot_light_cone: 0x117a1d6b0
+[14:46:01.405] M [PYTHON] NewType world.plane_glow: 0x117a1d9e0
+[14:46:01.405] M [PYTHON] NewType world.spot_light_glow: 0x117a1dd10
+[14:46:01.405] M [PYTHON] NewType world.space_light: 0x117a1e040
+[14:46:01.405] M [PYTHON] NewType world.plane_glow: 0x117a1e1d0
+[14:46:01.411] M [COCOSUI] In the default constructor with capacity of Vector.
+[14:46:01.412] M [COCOSUI] 
+{
+	cocos2d.x.version: cocos2d-x 3.4
+	cocos2d.x.compiled_with_profiler: false
+	cocos2d.x.build_type: RELEASE
+	gl.supports_S3TC: false
+	cocos2d.x.compiled_with_gl_state_cache: false
+	gl.supports_ETC1: true
+	gl.max_texture_size: 4096
+	gl.max_samples_allowed: 16
+	gl.supports_PVRTC: true
+}
+
+
+[14:46:01.412] M Call script init.init().
+[14:46:01.433] M [RENDER] Set render mode: 1280 720 32 1 0
+
+ERROR *****************************************************************************
+[14:46:01.433] M [CLIENT] Failed to resize window (1280, 720, 0)!
+
+[14:46:01.433] M [GAME] Initialization completed successfully!
+[14:46:01.433] M [GAME] 
+[14:46:01.433] M Call script init.start().
+[14:46:01.747] M [SCRIPT] ImportError
+[14:46:02.761] M [SCRIPT] Init safaia connection failed: timed out.
+[14:46:02.761] M [SCRIPT] StartHunter
+[14:46:02.821] M [SCRIPT] [INFO] - [SimMgr] - [start][real_time=0]
+[14:46:03.156] M [SCRIPT] echoes.enable_cpp_data_wrapper
+[14:46:03.585] M [SCRIPT] Type DCTOOL_ENABLE_ENGINE_DEVICE is True
+[14:46:03.618] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=macho_net][cost=0.796421051025]
+[14:46:03.625] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=network][cost=0.00660490989685]
+[14:46:03.625] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=network][cost=0.007]
+[14:46:03.626] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=network][cost=0.000][total_cost=0.00724983215332]
+[14:46:03.626] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=macho_net][cost=0.805]
+[14:46:03.627] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=macho_net][cost=0.001][total_cost=0.805857181549]
+[14:46:03.632] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=localization][cost=0.00435495376587]
+[14:46:03.632] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=localization][cost=0.005]
+[14:46:03.633] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=localization][cost=0.000][total_cost=0.00498700141907]
+[14:46:03.638] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=session_mgr][cost=0.00548911094666]
+[14:46:03.638] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=session_mgr][cost=0.006]
+[14:46:03.639] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=session_mgr][cost=0.000][total_cost=0.00607204437256]
+[14:46:03.678] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=game_manager][cost=0.0392069816589]
+[14:46:05.904] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=ui_manager][cost=2.22561192513]
+[14:46:05.905] M [SCRIPT] [INFO] - [ServiceManagerClient] - [starting_dependencies][service=ui_manager][dependency=['tips_manager', 'notifier_manager', 'view_manager', 'localization', 'setting', 'p2log']]
+[14:46:05.915] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=tips_manager][cost=0.0101888179779]
+[14:46:05.915] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=tips_manager][cost=0.011]
+[14:46:05.916] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=tips_manager][cost=0.000][total_cost=0.010969877243]
+[14:46:05.919] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=notifier_manager][cost=0.00304889678955]
+[14:46:05.919] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=notifier_manager][cost=0.003]
+[14:46:05.920] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=notifier_manager][cost=0.000][total_cost=0.00360703468323]
+[14:46:06.168] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=view_manager][cost=0.248039007187]
+[14:46:06.168] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=view_manager][cost=0.249]
+[14:46:06.169] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=view_manager][cost=0.000][total_cost=0.248783826828]
+[14:46:06.174] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=setting][cost=0.00500893592834]
+[14:46:06.174] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=setting][cost=0.005]
+[14:46:06.175] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=setting][cost=0.001][total_cost=0.00652098655701]
+[14:46:06.179] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=p2log][cost=0.00347995758057]
+[14:46:06.179] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=p2log][cost=0.004]
+[14:46:06.180] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=p2log][cost=0.000][total_cost=0.00405097007751]
+[14:46:06.180] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=ui_manager][cost=2.502]
+[14:46:06.181] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=ui_manager][cost=0.001][total_cost=2.50269794464]
+[14:46:06.189] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=equip_svc][cost=0.00697183609009]
+[14:46:06.189] M [SCRIPT] [INFO] - [ServiceManagerClient] - [starting_dependencies][service=equip_svc][dependency=['equip_auto_fire']]
+[14:46:06.203] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=equip_auto_fire][cost=0.0136210918427]
+[14:46:06.203] M [SCRIPT] [INFO] - [ServiceManagerClient] - [starting_dependencies][service=equip_auto_fire][dependency=['michelle', 'godma', 'target', 'drone_auto_fire']]
+[14:46:06.344] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=michelle][cost=0.140775918961]
+[14:46:06.345] M [SCRIPT] [INFO] - [ServiceManagerClient] - [starting_dependencies][service=michelle][dependency=['macho_net', 'dataconfig', 'godma', 'dogma_im', 'buff']]
+[14:46:06.357] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=dataconfig][cost=0.0118839740753]
+[14:46:06.357] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=dataconfig][cost=0.012]
+[14:46:06.358] M [SCRIPT] [INFO] - [Service:dataconfig] - Getting startup data
+[14:46:06.391] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=dataconfig][cost=0.034][total_cost=0.0462539196014]
+[14:46:06.429] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=godma][cost=0.0377569198608]
+[14:46:06.430] M [SCRIPT] [INFO] - [ServiceManagerClient] - [starting_dependencies][service=godma][dependency=['dogma_static', 'network']]
+[14:46:06.443] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=dogma_static][cost=0.0129280090332]
+[14:46:06.443] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=dogma_static][cost=0.013]
+[14:46:06.666] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=dogma_static][cost=0.223][total_cost=0.236040115356]
+[14:46:06.667] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=godma][cost=0.276]
+[14:46:06.668] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=godma][cost=0.000][total_cost=0.276256799698]
+[14:46:06.898] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=dogma_im][cost=0.229684114456]
+[14:46:06.902] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=effect_mgr][cost=0.00360488891602]
+[14:46:06.902] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=effect_mgr][cost=0.004]
+[14:46:06.915] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=effect_mgr][cost=0.013][total_cost=0.016921043396]
+[14:46:06.931] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=inventory_service][cost=0.0151681900024]
+[14:46:06.931] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=inventory_service][cost=0.016]
+[14:46:06.931] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=inventory_service][cost=0.000][total_cost=0.0161001682281]
+[14:46:06.932] M [SCRIPT] [INFO] - [ServiceManagerClient] - [starting_dependencies][service=dogma_im][dependency=['godma']]
+[14:46:06.932] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=dogma_im][cost=0.264]
+[14:46:06.932] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=dogma_im][cost=0.000][total_cost=0.264538049698]
+[14:46:06.949] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=buff][cost=0.0161769390106]
+[14:46:06.949] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=buff][cost=0.017]
+[14:46:06.950] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=buff][cost=0.000][total_cost=0.0170249938965]
+[14:46:06.950] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=michelle][cost=0.747]
+[14:46:06.957] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: common/shader/downsample.fx, tech name: Downsample, macro id: 0.
+[14:46:06.957] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: common\shader\downsample.nfx.
+[14:46:06.964] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\postprocess\evedistortion.fx, tech name: EVEDistortion, macro id: 0.
+[14:46:06.964] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\postprocess\evedistortion.nfx.
+[14:46:06.968] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\postprocess\cloak_distortion.fx, tech name: CloakDistortion, macro id: 0.
+[14:46:06.968] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\postprocess\cloak_distortion.nfx.
+[14:46:06.971] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/posteffects/eye_adaptation.nfx, tech name: DownSample, macro id: 0.
+[14:46:06.971] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\posteffects\eye_adaptation.nfx.
+[14:46:06.978] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\postprocess\dual_filter_downsample_threshold.nfx, tech name: DualFilterDownsample, macro id: 0.
+[14:46:06.978] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\postprocess\dual_filter_downsample_threshold.nfx.
+[14:46:06.981] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\postprocess\dual_filter_downsample.nfx, tech name: DualFilterDownsample, macro id: 0.
+[14:46:06.981] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\postprocess\dual_filter_downsample.nfx.
+[14:46:06.984] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\postprocess\dual_filter_upsample.nfx, tech name: DualFilterUpsample, macro id: 0.
+[14:46:06.984] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\postprocess\dual_filter_upsample.nfx.
+[14:46:06.987] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\postprocess\bloom_compose.nfx, tech name: BloomCompose, macro id: 0.
+[14:46:06.987] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\postprocess\bloom_compose.nfx.
+[14:46:06.990] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\postprocess\envfog_color.nfx, tech name: EnvironmentFogColor, macro id: 0.
+[14:46:06.991] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\postprocess\envfog_color.nfx.
+[14:46:06.994] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\postprocess\envfog_blur.nfx, tech name: EnvironmentFogBlur, macro id: 0.
+[14:46:06.994] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\postprocess\envfog_blur.nfx.
+[14:46:06.998] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\postprocess\envfog_blur_y.nfx, tech name: EnvironmentFogBlurY, macro id: 0.
+[14:46:06.998] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\postprocess\envfog_blur_y.nfx.
+[14:46:07.001] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\postprocess\envfog_composite.nfx, tech name: EnvironmentFogComposit, macro id: 0.
+[14:46:07.001] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\postprocess\envfog_composite.nfx.
+[14:46:07.004] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\postprocess\godrays_calc.nfx, tech name: GodRaysCalc, macro id: 0.
+[14:46:07.004] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\postprocess\godrays_calc.nfx.
+[14:46:07.012] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\postprocess\godrays_blit.nfx, tech name: GodRaysBlit, macro id: 0.
+[14:46:07.012] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\postprocess\godrays_blit.nfx.
+[14:46:07.015] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\postprocess\gray.nfx, tech name: Gray, macro id: 0.
+[14:46:07.015] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\postprocess\gray.nfx.
+[14:46:07.017] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\postprocess\merge_offscreen.nfx, tech name: Merge, macro id: 0.
+[14:46:07.017] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\postprocess\merge_offscreen.nfx.
+[14:46:07.020] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/posteffects/eye_adaptation.nfx, tech name: Reduce, macro id: 0.
+[14:46:07.020] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\posteffects\eye_adaptation.nfx.
+[14:46:07.020] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/postprocess/tonmapping.nfx, tech name: ToneMapping, macro id: 0.
+[14:46:07.020] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\postprocess\tonmapping.nfx.
+[14:46:07.023] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\postprocess\radial_blur.nfx, tech name: TShader, macro id: 0.
+[14:46:07.023] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\postprocess\radial_blur.nfx.
+[14:46:07.026] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\postprocess\screen_filter.nfx, tech name: ScreenFilter, macro id: 0.
+[14:46:07.026] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\postprocess\screen_filter.nfx.
+[14:46:07.028] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\postprocess\simple_bloom_compose.nfx, tech name: BloomCompose, macro id: 0.
+[14:46:07.028] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\postprocess\simple_bloom_compose.nfx.
+[14:46:07.030] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\postprocess\uiscene_tonemapping.nfx, tech name: UIScene_Tonemapping, macro id: 0.
+[14:46:07.030] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\postprocess\uiscene_tonemapping.nfx.
+[14:46:07.034] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\eve_skybox.fx, tech name: TShader, macro id: 2376595178.
+[14:46:07.034] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\eve_skybox.nfx.
+[14:46:07.057] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\eve_skybox.fx, tech name: TShader, macro id: 3954623016.
+[14:46:07.057] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\eve_skybox.nfx.
+[14:46:07.062] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/built_in/shadow/shadow_receive.nfx, tech name: TShader, macro id: 3675657280.
+[14:46:07.062] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\built_in\shadow\shadow_receive.nfx.
+[14:46:07.066] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/built_in/shadow/shadow_cast.nfx, tech name: TShader, macro id: 0.
+[14:46:07.066] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\built_in\shadow\shadow_cast.nfx.
+[14:46:07.069] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/built_in/shadow/debugoutput.nfx, tech name: TShader, macro id: 0.
+[14:46:07.069] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\built_in\shadow\debugoutput.nfx.
+[14:46:07.071] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/built_in/shadow/debugoutput.nfx, tech name: TShader, macro id: 0.
+[14:46:07.071] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/built_in/shadow/debugoutput.nfx, tech name: TShader, macro id: 0.
+[14:46:07.071] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/built_in/shadow/debugoutput.nfx, tech name: TShader, macro id: 0.
+[14:46:07.071] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/built_in/shadow/debugoutput.nfx, tech name: TShader, macro id: 0.
+[14:46:07.071] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/built_in/shadow/debugoutput.nfx, tech name: TShader, macro id: 0.
+[14:46:07.071] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/built_in/shadow/debugoutput.nfx, tech name: TShader, macro id: 0.
+[14:46:07.071] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/built_in/shadow/debugoutput.nfx, tech name: TShader, macro id: 0.
+[14:46:07.072] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/built_in/shadow/debugoutput.nfx, tech name: TShader, macro id: 0.
+[14:46:07.072] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/built_in/shadow/debugoutput.nfx, tech name: TShader, macro id: 0.
+[14:46:07.072] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/built_in/shadow/debugoutput.nfx, tech name: TShader, macro id: 0.
+[14:46:07.072] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/built_in/shadow/debugoutput.nfx, tech name: TShader, macro id: 0.
+
+WARNING *****************************************************************************
+[14:46:07.072] M [WORLD] custom render system 2 already add to scene!
+
+[14:46:07.085] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=michelle][cost=0.135][total_cost=0.882059812546]
+[14:46:07.112] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=target][cost=0.0256440639496]
+[14:46:07.112] M [SCRIPT] [INFO] - [ServiceManagerClient] - [starting_dependencies][service=target][dependency=['michelle', 'godma', 'state_svc']]
+[14:46:07.114] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=state_svc][cost=0.00205087661743]
+[14:46:07.114] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=state_svc][cost=0.002]
+[14:46:07.115] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=state_svc][cost=0.000][total_cost=0.00248503684998]
+[14:46:07.115] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=target][cost=0.029]
+[14:46:07.116] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=target][cost=0.000][total_cost=0.0296931266785]
+[14:46:07.119] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=drone_auto_fire][cost=0.00319385528564]
+[14:46:07.119] M [SCRIPT] [INFO] - [ServiceManagerClient] - [starting_dependencies][service=drone_auto_fire][dependency=['godma', 'target']]
+[14:46:07.119] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=drone_auto_fire][cost=0.004]
+[14:46:07.120] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=drone_auto_fire][cost=0.000][total_cost=0.00419592857361]
+[14:46:07.120] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=equip_auto_fire][cost=0.931]
+[14:46:07.121] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=equip_auto_fire][cost=0.000][total_cost=0.931427001953]
+[14:46:07.121] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=equip_svc][cost=0.939]
+[14:46:07.122] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=equip_svc][cost=0.000][total_cost=0.939884901047]
+[14:46:07.122] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=game_manager][cost=3.483]
+[14:46:07.123] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=game_manager][cost=0.001][total_cost=3.48371505737]
+[14:46:07.132] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=forbid_login][cost=0.00908517837524]
+[14:46:07.132] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=forbid_login][cost=0.009]
+[14:46:07.132] M [SCRIPT] #####################################################
+[14:46:07.133] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=forbid_login][cost=0.000][total_cost=0.0098180770874]
+[14:46:07.149] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=battle_pass_cli][cost=0.0162091255188]
+[14:46:07.150] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=battle_pass_cli][cost=0.017]
+[14:46:07.150] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=battle_pass_cli][cost=0.000][total_cost=0.0170059204102]
+[14:46:07.156] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=bp_celebration_cli][cost=0.00554800033569]
+[14:46:07.156] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=bp_celebration_cli][cost=0.006]
+[14:46:07.156] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=bp_celebration_cli][cost=0.000][total_cost=0.00631999969482]
+[14:46:07.173] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=http_svc][cost=0.00235390663147]
+[14:46:07.173] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=http_svc][cost=0.003]
+[14:46:07.173] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=http_svc][cost=0.000][total_cost=0.00299882888794]
+[14:46:07.175] M [SCRIPT] Set language to : es
+[14:46:17.939] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=input][cost=0.00079083442688]
+[14:46:17.939] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=input][cost=0.001]
+[14:46:18.000] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.touchpanel][miss UIView class]
+[14:46:18.025] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=input][cost=0.086][total_cost=0.0871939659119]
+[14:46:18.066] M [SCRIPT] ('drpf success', 0, 'Activation')
+[14:46:18.070] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.boot.logo][miss UIView class]
+[14:46:18.077] M [IOS] application:supportedInterfaceOrientationsForWindow:
+[14:46:18.077] M [IOS] application:supportedInterfaceOrientationsForWindow: return 24
+[14:46:18.087] M [IOS] application:rootView:willAppear:
+[14:46:18.088] M [IOS] application:supportedInterfaceOrientationsForWindow:
+[14:46:18.088] M [IOS] application:supportedInterfaceOrientationsForWindow: return 24
+[14:46:18.092] M [IOS] application:layoutSubViews:
+[14:46:18.149] M [UNISDK] [NtUniSdk]onFinishInit
+[14:46:18.397] M [IOS] applicationDidBecomeActive:
+[14:46:18.402] M [SCRIPT] [INFO][on_resume]
+[14:46:18.488] M [IOS] application:rootView:didAppear:
+[14:46:19.016] M [SCRIPT] [INFO] - [Service:view_manager] - [switch_on_boot][is_boot_login=True][play_cg=True]
+[14:46:19.027] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.login.cg][miss UIView class]
+[14:46:19.394] M Process CCLive Event 2
+[14:46:20.338] M [SCRIPT] Init safaia connection failed: timed out.
+[14:46:22.038] M [SCRIPT] Init safaia connection failed: timed out.
+[14:46:33.141] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.login.bg][miss UIView class]
+[14:46:33.175] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.login.home][miss UIView class]
+[14:46:33.222] M [COCOSUI] cocos load ttf : <gui_v1/fonts/font_regular.ttf>
+[14:46:33.339] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=version_manager][cost=0.0176258087158]
+[14:46:33.339] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=version_manager][cost=0.018]
+[14:46:33.341] M [SCRIPT] [INFO] - [Service:version_manager] - [fetch_notice][start fetch notice thread]
+[14:46:34.289]   [SCRIPT] [ERROR] - [Service:version_manager] - [invalid publish status line][g85naxx2gb@app_store 2.6.0 1 1 https://apps.apple.com/us/app/eve-echoes/id1446384690?mt=8]
+[14:46:34.289]   [SCRIPT] [ERROR] - [Service:version_manager] - [invalid publish status line][g85naxx2gb@google_play 2.6.0 1 1 https://play.google.com/store/apps/details?id=com.netease.eve.en]
+[14:46:34.290]   [SCRIPT] [ERROR] - [Service:version_manager] - [invalid publish status line][g85naxx2gb@app_store 2.6.1 1 1 https://apps.apple.com/us/app/eve-echoes/id1446384690?mt=8]
+[14:46:34.290]   [SCRIPT] [ERROR] - [Service:version_manager] - [invalid publish status line][g85naxx2gb@google_play 2.6.1 1 1 https://play.google.com/store/apps/details?id=com.netease.eve.en]
+[14:46:34.290]   [SCRIPT] [ERROR] - [Service:version_manager] - [invalid publish status line][g85naxx2gb@app_store 2.6.2 1 1 https://apps.apple.com/us/app/eve-echoes/id1446384690?mt=8]
+[14:46:34.290]   [SCRIPT] [ERROR] - [Service:version_manager] - [invalid publish status line][g85naxx2gb@google_play 2.6.2 1 1 https://play.google.com/store/apps/details?id=com.netease.eve.en]
+[14:46:34.291]   [SCRIPT] [ERROR] - [Service:version_manager] - [invalid publish status line][]
+[14:46:34.309] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.patch.main][miss UIView class]
+[14:46:34.608]   [SCRIPT] [INFO] - [detect start][scene_id=32]
+[14:46:34.608]   [SCRIPT] DETECT Detector initialized.
+[14:46:34.632]   [SCRIPT] DETECT debug log is closing
+[14:46:34.633]   [SCRIPT] [INFO] - [detect end][scene_id=32]
+[14:46:35.996] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=version_manager][cost=2.657][total_cost=2.6745569706]
+[14:46:36.022] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=audio_manager][cost=0.0142939090729]
+[14:46:36.031] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=novice][cost=0.00773191452026]
+[14:46:36.031] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=novice][cost=0.008]
+[14:46:36.031] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=novice][cost=0.000][total_cost=0.00853586196899]
+[14:46:36.032] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=audio_manager][cost=0.024]
+[14:46:36.036] M [AUDIO] -----Load wwise\init.bnk succeed!
+[14:46:36.067] M [AUDIO] -----Load wwise\music_eve.bnk succeed!
+[14:46:36.079] M [AUDIO] -----Load wwise\cosmos.bnk succeed!
+[14:46:36.092] M [AUDIO] -----Load wwise\ship_modules_v1.bnk succeed!
+[14:46:36.093] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=audio_manager][cost=0.062][total_cost=0.0852918624878]
+[14:46:36.099] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=avatar][cost=0.00529313087463]
+[14:46:36.099] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=avatar][cost=0.006]
+[14:46:36.100] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=avatar][cost=0.000][total_cost=0.00592494010925]
+[14:46:36.229] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=starmap][cost=0.128824949265]
+[14:46:36.229] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=starmap][cost=0.130]
+[14:46:36.230] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=starmap][cost=0.000][total_cost=0.129838943481]
+[14:46:36.517] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=wallet][cost=0.287568092346]
+[14:46:36.518] M [SCRIPT] [INFO] - [ServiceManagerClient] - [starting_dependencies][service=wallet][dependency=['macho_net']]
+[14:46:36.518] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=wallet][cost=0.288]
+[14:46:36.519] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=wallet][cost=0.000][total_cost=0.288810968399]
+[14:46:36.530] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=private_chat_service][cost=0.0113031864166]
+[14:46:36.531] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=private_chat_service][cost=0.012]
+[14:46:36.531] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=private_chat_service][cost=0.000][total_cost=0.0120210647583]
+[14:46:36.543] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=mail_mgr][cost=0.0115659236908]
+[14:46:36.543] M [SCRIPT] [INFO] - [ServiceManagerClient] - [starting_dependencies][service=mail_mgr][dependency=['macho_net']]
+[14:46:36.543] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=mail_mgr][cost=0.012]
+[14:46:36.544] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=mail_mgr][cost=0.000][total_cost=0.0127899646759]
+[14:46:36.547] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=offline_handle][cost=0.00265502929688]
+[14:46:36.547] M [SCRIPT] [INFO] - [ServiceManagerClient] - [starting_dependencies][service=offline_handle][dependency=['macho_net']]
+[14:46:36.547] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=offline_handle][cost=0.003]
+[14:46:36.548] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=offline_handle][cost=0.000][total_cost=0.00382995605469]
+[14:46:36.609] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=task][cost=0.060986995697]
+[14:46:36.610] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=task][cost=0.062]
+[14:46:36.765] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=task][cost=0.154][total_cost=0.216778993607]
+[14:46:36.777] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=novice_task][cost=0.0114359855652]
+[14:46:36.777] M [SCRIPT] [INFO] - [ServiceManagerClient] - [starting_dependencies][service=novice_task][dependency=['task']]
+[14:46:36.777] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=novice_task][cost=0.012]
+[14:46:36.778] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=novice_task][cost=0.000][total_cost=0.0124249458313]
+[14:46:36.794] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=corp_svc][cost=0.015851020813]
+[14:46:36.794] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=corp_svc][cost=0.017]
+[14:46:36.795] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=corp_svc][cost=0.000][total_cost=0.0168600082397]
+[14:46:36.804] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=contact_service][cost=0.00936007499695]
+[14:46:36.805] M [SCRIPT] [INFO] - [ServiceManagerClient] - [starting_dependencies][service=contact_service][dependency=['corp_svc']]
+[14:46:36.805] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=contact_service][cost=0.010]
+[14:46:36.805] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=contact_service][cost=0.000][total_cost=0.0103440284729]
+[14:46:36.879] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=fleet4][cost=0.0736999511719]
+[14:46:36.880] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=fleet4][cost=0.075]
+[14:46:36.880] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=fleet4][cost=0.000][total_cost=0.0750479698181]
+[14:46:36.885] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=police2][cost=0.00448107719421]
+[14:46:36.886] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=police2][cost=0.005]
+[14:46:36.886] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=police2][cost=0.000][total_cost=0.00530195236206]
+[14:46:36.903] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=autopilot2][cost=0.017117023468]
+[14:46:36.904] M [SCRIPT] [INFO] - [ServiceManagerClient] - [starting_dependencies][service=autopilot2][dependency=['path_finder', 'starmap']]
+[14:46:36.925] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=path_finder][cost=0.0212631225586]
+[14:46:36.926] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=path_finder][cost=0.022]
+[14:46:36.926] M [SCRIPT] [INFO] - [Service:path_finder] - Initializing the pathfinding internals
+[14:46:37.862] M [SCRIPT] [INFO] - path_finder - [path_finder][create_path_finder][system_cnt=14010]
+[14:46:37.863] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=path_finder][cost=0.937][total_cost=0.958854913712]
+[14:46:37.863] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=autopilot2][cost=0.977]
+[14:46:37.864] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=autopilot2][cost=0.000][total_cost=0.977520942688]
+[14:46:37.877] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=dungeon2][cost=0.0129470825195]
+[14:46:37.877] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=dungeon2][cost=0.013]
+[14:46:37.878] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=dungeon2][cost=0.000][total_cost=0.0136840343475]
+[14:46:37.885] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=scene_svc][cost=0.00742888450623]
+[14:46:37.885] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=scene_svc][cost=0.008]
+[14:46:37.886] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=scene_svc][cost=0.000][total_cost=0.00802493095398]
+[14:46:37.888] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=sandbox][cost=0.00212788581848]
+[14:46:37.889] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=sandbox][cost=0.002]
+[14:46:37.889] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=sandbox][cost=0.000][total_cost=0.00277900695801]
+[14:46:37.892] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=tutorial][cost=0.00244188308716]
+[14:46:37.892] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=tutorial][cost=0.003]
+[14:46:37.892] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=tutorial][cost=0.000][total_cost=0.00334501266479]
+[14:46:37.893] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=graphics_setting][cost=0.000341892242432]
+[14:46:37.893] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=graphics_setting][cost=0.001]
+[14:46:37.906] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=graphics_setting][cost=0.013][total_cost=0.0132448673248]
+[14:46:37.917] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=gmbridge][cost=0.0103640556335]
+[14:46:37.917] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=gmbridge][cost=0.011]
+[14:46:37.917] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=gmbridge][cost=0.000][total_cost=0.0109770298004]
+[14:46:38.107] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=chat_service][cost=0.189287900925]
+[14:46:38.107] M [SCRIPT] [INFO] - [ServiceManagerClient] - [starting_dependencies][service=chat_service][dependency=['chat_micro_service']]
+[14:46:38.123] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=chat_micro_service][cost=0.0151278972626]
+[14:46:38.123] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=chat_micro_service][cost=0.016]
+[14:46:38.124] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=chat_micro_service][cost=0.000][total_cost=0.015998840332]
+[14:46:38.124] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=chat_service][cost=0.206]
+[14:46:38.125] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=chat_service][cost=0.001][total_cost=0.207196950912]
+[14:46:38.134] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=ngpush_service][cost=0.00904607772827]
+[14:46:38.134] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=ngpush_service][cost=0.009]
+[14:46:38.135] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=ngpush_service][cost=0.000][total_cost=0.00961899757385]
+[14:46:38.139] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=sensor_suite][cost=0.00442385673523]
+[14:46:38.140] M [SCRIPT] [INFO] - [ServiceManagerClient] - [starting_dependencies][service=sensor_suite][dependency=['michelle']]
+[14:46:38.140] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=sensor_suite][cost=0.006]
+[14:46:38.141] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=sensor_suite][cost=0.000][total_cost=0.0059859752655]
+[14:46:38.148] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=test_case][cost=0.00678706169128]
+[14:46:38.148] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=test_case][cost=0.007]
+[14:46:38.148] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=test_case][cost=0.000][total_cost=0.00728607177734]
+[14:46:38.156] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=announcement_svc][cost=0.00718402862549]
+[14:46:38.156] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=announcement_svc][cost=0.008]
+[14:46:38.156] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=announcement_svc][cost=0.000][total_cost=0.00795602798462]
+[14:46:38.172] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=overview_service][cost=0.0148780345917]
+[14:46:38.172] M [SCRIPT] [INFO] - [ServiceManagerClient] - [starting_dependencies][service=overview_service][dependency=['michelle', 'main_icon_svc']]
+[14:46:38.176] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=main_icon_svc][cost=0.00427913665771]
+[14:46:38.177] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=main_icon_svc][cost=0.005]
+[14:46:38.177] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=main_icon_svc][cost=0.000][total_cost=0.00490713119507]
+[14:46:38.177] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=overview_service][cost=0.021]
+[14:46:38.178] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=overview_service][cost=0.000][total_cost=0.0210790634155]
+[14:46:38.183] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=mall_ad][cost=0.00484895706177]
+[14:46:38.183] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=mall_ad][cost=0.005]
+[14:46:38.183] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=mall_ad][cost=0.000][total_cost=0.00538897514343]
+[14:46:38.185] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=buff_data_svc][cost=0.00172591209412]
+[14:46:38.186] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=buff_data_svc][cost=0.002]
+[14:46:38.186] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=buff_data_svc][cost=0.000][total_cost=0.00253295898438]
+[14:46:38.188] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=return_login_svc][cost=0.00189399719238]
+[14:46:38.188] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=return_login_svc][cost=0.002]
+[14:46:38.189] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=return_login_svc][cost=0.000][total_cost=0.00241208076477]
+[14:46:38.194] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=insurance_svc][cost=0.00550413131714]
+[14:46:38.195] M [SCRIPT] [INFO] - [ServiceManagerClient] - [starting_dependencies][service=insurance_svc][dependency=['macho_net']]
+[14:46:38.195] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=insurance_svc][cost=0.006]
+[14:46:38.195] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=insurance_svc][cost=0.000][total_cost=0.00657916069031]
+[14:46:38.198] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=save_location][cost=0.00254106521606]
+[14:46:38.198] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=save_location][cost=0.003]
+[14:46:38.199] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=save_location][cost=0.000][total_cost=0.00314402580261]
+[14:46:38.201] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=ship_tree2][cost=0.00171399116516]
+[14:46:38.201] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=ship_tree2][cost=0.002]
+[14:46:38.201] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=ship_tree2][cost=0.000][total_cost=0.00218296051025]
+[14:46:38.221] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=scan_svc][cost=0.019296169281]
+[14:46:38.221] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=scan_svc][cost=0.020]
+[14:46:38.262] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=scan_svc][cost=0.041][total_cost=0.0604441165924]
+[14:46:38.268] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=activity_common][cost=0.00597405433655]
+[14:46:38.269] M [SCRIPT] [INFO] - [ServiceManagerClient] - [starting_dependencies][service=activity_common][dependency=['macho_net']]
+[14:46:38.269] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=activity_common][cost=0.007]
+[14:46:38.269] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=activity_common][cost=0.000][total_cost=0.00694108009338]
+[14:46:38.280] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=lp_battle_mgr][cost=0.0103368759155]
+[14:46:38.280] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=lp_battle_mgr][cost=0.011]
+[14:46:38.281] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=lp_battle_mgr][cost=0.000][total_cost=0.0111079216003]
+[14:46:38.301] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=contract_svc][cost=0.0199110507965]
+[14:46:38.301] M [SCRIPT] [INFO] - [ServiceManagerClient] - [starting_dependencies][service=contract_svc][dependency=['godma', 'dataconfig']]
+[14:46:38.302] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=contract_svc][cost=0.021]
+[14:46:38.302] M [SCRIPT] [INFO] - [Service:contract_svc] - ContractSvc start 
+[14:46:38.302] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=contract_svc][cost=0.001][total_cost=0.0215811729431]
+[14:46:38.331] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=login][cost=0.0276298522949]
+[14:46:38.331] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=login][cost=0.028]
+[14:46:38.336] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=unisdk][cost=0.00376296043396]
+[14:46:38.336] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=unisdk][cost=0.004]
+[14:46:38.337] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=unisdk][cost=0.000][total_cost=0.00439596176147]
+[14:46:38.340] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=jelly_mgr][cost=0.00330209732056]
+[14:46:38.341] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=jelly_mgr][cost=0.004]
+[14:46:38.341] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=jelly_mgr][cost=0.000][total_cost=0.00395894050598]
+[14:46:38.345] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.login.sdk_login][miss UIView class]
+[14:46:38.419] M [SCRIPT] ('drpf success', 0, 'LoginUI')
+[14:46:38.420] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=login][cost=0.089][total_cost=0.116809844971]
+[14:46:39.823] M [UNISDK] [NtUniSdk]onProtocolFinish
+[14:46:41.218] M [SCRIPT] [INFO] - [detect start][scene_id=33]
+[14:46:41.218] M [SCRIPT] [INFO] - [detect end][scene_id=33]
+[14:46:41.219] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.login.default_server_panel][miss UIView class]
+[14:46:41.273] M [SCRIPT] [INFO] - login.notice_util - [show_notice][need_show=True][old_md5=[u'e20ccf99b641aebc857ee8023286ca2d', u'ab7863e34d4aedd1498f5a197c51728e', u'304679a6df66f8c60309b3ec4bb84ade', u'864e1a833d20f1a51e4960c3acfc9175', u'd41d8cd98f00b204e9800998ecf8427e']][new_md5=['5f13bc16ddad38545f95f55acc66ac1b', 'ab7863e34d4aedd1498f5a197c51728e', '304679a6df66f8c60309b3ec4bb84ade', '864e1a833d20f1a51e4960c3acfc9175', 'd41d8cd98f00b204e9800998ecf8427e']]
+[14:46:41.273] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.ui_common.common_screen][miss UIView class]
+[14:46:41.283] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.login.notice][miss UIView class]
+[14:46:42.049] M [AUDIO] -----Load wwise\ui.bnk succeed!
+[14:46:42.232] M [SCRIPT] [INFO] - MachoTransceiver - [handle_connected][connection established][remote_address=('34.224.140.43', 20037)]
+[14:47:02.601] M [SCRIPT] [INFO] - [detect start][scene_id=33]
+[14:47:02.603] M [SCRIPT] [INFO] - [detect end][scene_id=33]
+[14:47:16.073] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=pharos_svc][cost=0.00107598304749]
+[14:47:16.074] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=pharos_svc][cost=0.002]
+[14:47:16.075] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=pharos_svc][cost=0.001][total_cost=0.00280594825745]
+[14:47:19.431] M [SCRIPT] [INFO] - MachoTransceiver - [handle_connected][connection established][remote_address=('13.248.192.238', 10567)]
+[14:47:20.145] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.tips.tip_panel_new][miss UIView class]
+[14:47:20.192] M [COCOSUI] cocos load ttf : <gui_v1/fonts/font_bold.ttf>
+[14:47:20.531] M [SCRIPT] [INFO] - [Service:macho_net] - Connecting to server
+[14:47:20.931] M [SCRIPT] [INFO] - MachoTransceiver - login response. code: 0, response: {'session_init': {'logon_date': datetime.datetime(2021, 10, 8, 17, 47, 20), 'user_id': 104872691, 'sdk_info': {'is_jailbreak': 0, 'old_accountid': '654262392@netease_global.win.163.com', 'os_name': 'ios', 'account_id': '654262392@netease_global.win.163.com', 'device_width': '1334', 'device_model': 'iPhone8,1', 'ip': '181.42.24.67', 'app_channel': 'g85naxx2gb@app_store', 'device_height': '750', 'udid': 'C9373679-A275-4640-8024-C35CC90D2DFB', 'test_group': '', 'unisdk_deviceid': '1305420500', 'app_ver': 135702, 'mac_addr': '', 'country_code': 'CL', 'tdid': '', 'connection_ip': '10.66.26.150', 'transid': 'C9373679-A275-4640-8024-C35CC90D2DFB_1633715160354_955518934', 'engine_ver': '3.3.1', 'os_ver': '15.0', 'network': '4G'}, 'language_id': 'es', 'role': 2882303761517117440, 'jelly_info': {'sauth_login_type': None, 'access_token': None, 'sdk_uid': '654262392', 'app_channel': 'g85naxx2gb@app_store', 'unisdk_login_json': 'eyJhaWQiOiI1NzY3ODgwIiwic2RrdWlkIjoiNjU0MjYyMzkyIiwidXNlcm5hbWUiOiI2NTQyNjIzOTJAbmV0ZWFzZV9nbG9iYWwud2luLjE2My5jb20iLCJhY2Nlc3NfdG9rZW4iOiIiLCJleHBpcmVzX2luIjoiIiwicmVmcmVzaF90b2tlbiI6IiIsImNobF9zZGtfanNvbiI6eyJzZGt1aWQiOiI2NTQyNjIzOTIiLCJhaWQiOiI1NzY3ODgwIiwidGltZXN0YW1wIjoiMTYzMzcxNTI0MCIsInNpZ24iOiI2NzY0NDY2NWU1ZmNkOGYyNTE3NTk4MDYyMjNiODU3MmU2ODYwZWYyZjM5YzY4NmY1ZWFiMzI5OGI5OTZiMmJlIn19', 'sdk_username': '654262392@netease_global.win.163.com', 'sdk_aid': 5767880, 'aas_msg': {'reason_v2': '', 'need_role_enter_v2': False, 'need_realname': False, 'need_realname_v2': False, 'reason': '', 'need_role_enter': False}, 'bound_account_ids': {'16': ('001670.daeb14f5fdb04dce86b3265342444599.2155',)}, 'realname_msg': "{u'age_range': 0, u'oversea': False, u'update_guide': 0, u'birthday': u'', u'verify_status': 0, u'id_hash': u'', u'age_range_v2': -1}"}}, 'reconnect_key': '192e5ab5-5b86-488e-87b0-6ab7eafa5036', 'proxy_node_id': 100000218, 'session_id': 8962449403231221407, 'client_id': 10000021800001578}
+[14:47:20.960] M [SCRIPT] [INFO] - [detect start][scene_id=34]
+[14:47:20.961] M [SCRIPT] [INFO] - [detect end][scene_id=34]
+[14:47:20.961] M [SCRIPT] ('sdk_auth_type is ', 'apple')
+[14:47:21.001] M [SCRIPT] ('drpf success', 0, 'Identification')
+[14:47:21.032] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=market_svc][cost=0.000937938690186]
+[14:47:21.033] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=market_svc][cost=0.002]
+[14:47:21.042] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=space_mgr][cost=0.00342202186584]
+[14:47:21.042] M [SCRIPT] [INFO] - [ServiceManagerClient] - [starting_dependencies][service=space_mgr][dependency=['michelle', 'fx_sequencer']]
+[14:47:21.091] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=fx_sequencer][cost=0.0483319759369]
+[14:47:21.091] M [SCRIPT] [INFO] - [ServiceManagerClient] - [starting_dependencies][service=fx_sequencer][dependency=['michelle']]
+[14:47:21.092] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=fx_sequencer][cost=0.049]
+[14:47:21.092] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=fx_sequencer][cost=0.001][total_cost=0.0501289367676]
+[14:47:21.093] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=space_mgr][cost=0.055]
+[14:47:21.093] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=space_mgr][cost=0.000][total_cost=0.0548820495605]
+[14:47:21.898] M [SCRIPT] ('fps error', TypeError("'NoneType' object is not iterable",))
+[14:47:23.064] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=market_svc][cost=2.031][total_cost=2.03263688087]
+[14:47:23.134] M [SCRIPT] [INFO] - [Service:godma] - [init_after_login]
+[14:47:23.706] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=character][cost=0.0131750106812]
+[14:47:23.706] M [SCRIPT] [INFO] - [ServiceManagerClient] - [starting_dependencies][service=character][dependency=['macho_net']]
+[14:47:23.707] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=character][cost=0.014]
+[14:47:23.707] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=character][cost=0.000][total_cost=0.0148940086365]
+[14:47:24.014] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.login.character_choice][miss UIView class]
+[14:47:30.331] M [SCRIPT] wait_pos is 0 10008173731
+[14:47:30.339] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=screenplay_svc][cost=0.00642800331116]
+[14:47:30.339] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=screenplay_svc][cost=0.007]
+[14:47:30.340] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=screenplay_svc][cost=0.000][total_cost=0.00719380378723]
+[14:47:31.564] M [SCRIPT] [INFO] - [SimMgr] - [on_time_dilation_sync_init][start][real_time=1633715251.41][sim_time=206769.572254][td_factor=1]
+[14:47:31.564] M [SCRIPT] [INFO] - [SimMgr] - [on_time_dilation_sync_init_apply][start][real_time=1633715251.41][sim_time=206769.572254][td_factor=1][delta_time=206680.861954]
+[14:47:31.568] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.screen_filter][miss UIView class]
+[14:47:31.572] M [SCRIPT] [INFO] - [Service:godma] - [process_session_change][start prime][change={'status': (1, 2), 'avatar_id': (None, 'pfa014'), 'solar_system_id2': (None, 30002190), 'region_id': (None, 10000043), 'race_id': (None, 4), 'bloodline_id': (None, 5), 'corp_position': (0, 10000), 'station_id': (None, 60008500), 'corp_id': (None, 1000166), 'gender_id': (None, 0), 'ship_id': (None, 1004559685830), 'constellation_id': (None, 20000322), 'station_id2': (None, 60008500), 'world_space_id': (None, 60008500), 'char_id': (None, 10008173731), 'ship_type_id': (None, 10100000306), 'location_id': (None, 60008500), 'tech_level': (0, 2), 'char_name': (None, 'Pamela Kaamo')}]
+[14:47:31.573] M [SCRIPT] [INFO] - [Service:godma] - [prime][char_id=10008173731][ship_id=1004559685830][prime_character=True][prime_ship=True][prime_structure=None]
+[14:47:31.777] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=slash_svc][cost=0.0110230445862]
+[14:47:31.777] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=slash_svc][cost=0.011]
+[14:47:31.777] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=slash_svc][cost=0.000][total_cost=0.0118670463562]
+[14:47:31.804] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=statistic][cost=0.0268149375916]
+[14:47:31.805] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=statistic][cost=0.027]
+[14:47:31.805] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=statistic][cost=0.000][total_cost=0.0276288986206]
+[14:47:31.836] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=medal_svc][cost=0.0304229259491]
+[14:47:31.837] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=medal_svc][cost=0.031]
+[14:47:31.837] M [SCRIPT] [INFO] - [Service:medal_svc] - client start medal svc
+[14:47:31.838] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=medal_svc][cost=0.001][total_cost=0.0323448181152]
+[14:47:31.869] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=museum_svc][cost=0.0306398868561]
+[14:47:31.869] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=museum_svc][cost=0.031]
+[14:47:31.869] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=museum_svc][cost=0.000][total_cost=0.0314331054688]
+[14:47:32.398] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=skills][cost=0.0259120464325]
+[14:47:32.405] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=omega][cost=0.00625896453857]
+[14:47:32.405] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=omega][cost=0.007]
+[14:47:32.406] M [SCRIPT] [INFO] - [Service:omega] - client start OmegaSvc
+[14:47:33.272] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.login.loading][miss UIView class]
+[14:47:34.267] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=omega][cost=1.861][total_cost=1.86773610115]
+[14:47:34.268] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=skills][cost=1.896]
+[14:47:34.269] M [SCRIPT] [INFO] - [Service:skills] - client start skills svc
+[14:47:37.732] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=skills][cost=3.463][total_cost=5.35924100876]
+[14:47:37.733] M [SCRIPT] [INFO] - [Service:godma] - [process_all_info][char_id=10008173731][ship_id=1004559685830][location=60008500][char_info=[{10008173731: <KeyVal: {'active_effects': {}, 'inv_item': <DBRow item_id=10008173731, type_id=93000100001, owner_id=1, location_id=1004559685830, flag=57, quantity=-1, custom_info=, lock_expire=None, group_id=93000, category_id=93, stacksize=1, singleton=1>, 'time': 206770.28019094467, 'item_id': 10008173731, 'attributes': {31: 1, 33: 259200.0, 1101: 100.0, 1103: 100.0, 1105: 100.0, 1107: 100.0, 1109: 100.0, 1111: 100.0, 1113: 100.0, 1115: 100.0, 1117: 100.0, 1119: 100.0, 1121: 100.0, 610: 50, 611: 10, 106: 1.0, 630: 5, 632: 1, 634: 1, 636: 8.0, 638: 15.0, 1151: 30.0, 640: 100.0, 1153: 30.0, 642: 10.0, 1155: 30.0, 644: 0.3, 1157: 30.0, 646: 2, 1159: 30.0, 648: 0, 1161: 30.0, 1163: 30.0, 1165: 30.0, 1167: 30.0, 1169: 30.0, 1171: 30.0, 1173: 30.0, 1201: 150.0, 1203: 150.0, 1205: 150.0, 1207: 150.0, 1209: 150.0, 1211: 150.0, 1213: 150.0, 1215: 150.0, 1217: 150.0, 706: 60.0, 1220: 150.0, 1222: 150.0, 1224: 150.0, 1226: 150.0, 1230: 150.0, 1232: 150.0, 1251: 100.0, 1253: 100.0, 1255: 100.0, 1257: 100.0, 1259: 100.0, 1261: 100.0, 1263: 100.0, 1265: 100.0, 1267: 100.0, 1270: 100.0, 1272: 100.0, 1274: 100.0, 1276: 100.0, 1280: 100.0, 1282: 100.0, 1301: 100.0, 1303: 100.0, 1305: 100.0, 1307: 100.0, 1309: 100.0, 1311: 100.0, 800: 0.4, 1313: 100.0, 802: 1, 1315: 100.0, 804: 2, 1317: 100.0, 806: 100.0, 1319: 100.0, 808: 1.0, 1321: 100.0, 1323: 100.0, 1325: 100.0, 1327: 100.0, 1330: 100.0, 1332: 100.0, 1334: 100.0, 1336: 100.0, 1338: 100.0, 1340: 100.0, 1342: 100.0, 1351: 0.0, 1353: 0.0, 1355: 0.0, 1357: 0.0, 1359: 0.0, 1361: 0.0, 1363: 0.0, 1365: 0.0, 1367: 0.0, 1369: 0.0, 1371: 0.0, 1373: 0.0, 1375: 0.0, 1377: 0.0, 354: 3.0, 1380: 0.0, 1382: 0.0, 1384: 0.0, 1386: 0.0, 1388: 0.0, 1390: 0.0, 1392: 0.0, 1401: 30.0, 1403: 30.0, 10108: 1, 1405: 30.0, 10110: 0.04, 1407: 30.0, 10112: 0.04, 1409: 30.0, 10114: 0.025, 1411: 30.0, 10116: 1, 1413: 30.0, 1415: 30.0, 1417: 30.0, 1419: 30.0, 1421: 30.0, 1423: 30.0, 1425: 30.0, 1427: 30.0, 1429: 30.0, 1431: 30.0, 1433: 30.0, 1435: 1.0, 1123: 100.0, 482: 2, 483: 20000, 500: 2, 502: 1}, 'wallclock_time': 1633715252.129258}>}, <BrainData 0x127da4940 char_id=10008173731, version=1, skills=17, d=15, q=False>]][ship_info={1004559734176: <KeyVal: {'active_effects': {16: [1004559734176, 10008173731, 1004559685830, None, None, [], 16, 206769.5722539425, -1, 1]}, 'inv_item': <DBRow item_id=1004559734176, type_id=11503000002, owner_id=10008173731, location_id=1004559685830, flag=13, quantity=-1, custom_info=, lock_expire=None, group_id=11503, category_id=11, stacksize=1, singleton=1>, 'time': 206770.28019094467, 'item_id': 1004559734176, 'attributes': {1: 1, 4: 0, 161: 1, 105: 0, 234: 104, 13: 1, 430: 5640.0, 310: 33.0, 184: 8.0, 100: 500, 900: 1, 10011: 0, 106: 5.0}, 'wallclock_time': 1633715252.129561}>, 1004559734177: <KeyVal: {'active_effects': {16: [1004559734177, 10008173731, 1004559685830, None, None, [], 16, 206769.5722539425, -1, 1]}, 'inv_item': <DBRow item_id=1004559734177, type_id=11304500002, owner_id=10008173731, location_id=1004559685830, flag=12, quantity=-1, custom_info=, lock_expire=None, group_id=11304, category_id=11, stacksize=1, singleton=1>, 'time': 206770.28019094467, 'item_id': 1004559734177, 'attributes': {1: 1, 131: 1.18, 4: 0, 13: 1, 174: 1, 900: 1, 10011: 0, 161: 1, 100: 0, 102: 500000.0, 103: 1350000, 105: 0, 106: 5.0, 430: 10500.0, 310: 20.240000000000002, 184: 10.0}, 'wallclock_time': 1633715252.129621}>, 1004559734179: <KeyVal: {'active_effects': {16: [1004559734179, 10008173731, 1004559685830, None, None, [], 16, 206769.5722539425, -1, 1]}, 'inv_item': <DBRow item_id=1004559734179, type_id=11002510002, owner_id=10008173731, location_id=1004559685830, flag=28, quantity=-1, custom_info=, lock_expire=None, group_id=11002, category_id=11, stacksize=1, singleton=1>, 'time': 206770.28019094467, 'item_id': 1004559734179, 'attributes': {1: 1, 450: 5250.0, 900: 1, 453: 2500.0, 456: 384.15, 492: 86, 13: 1, 10003: 40000.0, 4: 0, 410: 2.6395200000000005, 10011: 0, 413: 18.0, 414: 11.0, 161: 1, 100: 500, 105: 0, 490: 0.01, 491: 1, 620: 1, 430: 4000.0, 310: 1.9799999999999998, 184: 8.0, 106: 5.0}, 'wallclock_time': 1633715252.129674}>, 1004559685830: <KeyVal: {'active_effects': {}, 'inv_item': <DBRow item_id=1004559685830, type_id=10100000306, owner_id=10008173731, location_id=60008500, flag=4, quantity=-1, custom_info=, lock_expire=None, group_id=10100, category_id=10, stacksize=1, singleton=1>, 'time': 206770.28019094467, 'item_id': 1004559685830, 'attributes': {512: 0, 1: 2, 2: 1, 515: 0, 4: 0, 513: 0, 514: 0, 271: 0.6667, 272: 0.6667, 273: 0.6667, 274: 0.6667, 516: 0, 10011: 0, 263: 0, 300: 456.50000000000006, 303: 456.50000000000006, 304: 172000.0, 10038: 0.0, 10039: 0.0, 312: 2.2e-06, 10042: 0.0, 10043: 0.0, 10044: 0.0, 10045: 0.0, 10046: 0.0, 10047: 0.0, 10048: 0.0, 10049: 0.0, 10050: 0.0, 10051: 0.0, 10053: 0.0, 10054: 0.0, 10055: 0.0, 10056: 0.0, 10057: 0.0, 334: 8.5, 10040: 0.0, 350: 37580.0, 352: 598.0, 354: 3, 99: 1.0, 100: 1080000, 360: 33.9, 105: 26, 106: 24398.0, 620: 260, 622: 0.0, 623: 0.0, 624: 0.0, 10103: 0.0, 10104: 0, 10090: -2, 130: 462.84, 260: 348, 140: 1000000.0, 655: 0.0, 150: 5.0, 164: 2, 166: 0, 168: 3, 170: 0, 172: 0, 180: 45.0, 183: 35.0, 702: 146.5, 200: 309.0, 203: 309.0, 120: 1.2000000000000002, 211: 1.0, 212: 0.8, 213: 0.6, 214: 0.45, 480: 1.0, 481: 0.0, 228: 520000.0, 230: 438.0, 233: 0, 241: 0.5, 242: 0.65, 243: 0.75, 244: 0.8, 511: 0}, 'wallclock_time': 1633715252.129767}>, 1004560491604: <KeyVal: {'active_effects': {16: [1004560491604, 10008173731, 1004559685830, None, None, [], 16, 206769.5722539425, -1, 1]}, 'inv_item': <DBRow item_id=1004560491604, type_id=11529000002, owner_id=10008173731, location_id=1004559685830, flag=11, quantity=-1, custom_info=, lock_expire=None, group_id=11529, category_id=11, stacksize=1, singleton=1>, 'time': 206770.28019094467, 'item_id': 1004560491604, 'attributes': {1: 1, 4: 0, 246: -0.085, 13: 1, 248: -0.085, 900: 1, 10011: 0, 161: 1, 100: 1, 105: 10, 106: 25.0, 430: 10000.0, 177: 1, 245: -0.085, 310: 10.0, 247: -0.085, 184: 1.0}, 'wallclock_time': 1633715252.129803}>, 1004559735540: <KeyVal: {'active_effects': {16: [1004559735540, 10008173731, 1004559685830, None, None, [], 16, 206769.5722539425, -1, 1]}, 'inv_item': <DBRow item_id=1004559735540, type_id=11002510002, owner_id=10008173731, location_id=1004559685830, flag=27, quantity=-1, custom_info=, lock_expire=None, group_id=11002, category_id=11, stacksize=1, singleton=1>, 'time': 206770.28019094467, 'item_id': 1004559735540, 'attributes': {1: 1, 450: 5250.0, 900: 1, 453: 2500.0, 456: 384.15, 492: 86, 13: 1, 10003: 40000.0, 4: 0, 410: 2.6395200000000005, 10011: 0, 413: 18.0, 414: 11.0, 161: 1, 100: 500, 105: 0, 490: 0.01, 491: 1, 620: 1, 430: 4000.0, 310: 1.9799999999999998, 184: 8.0, 106: 5.0}, 'wallclock_time': 1633715252.129841}>}][mod_attrs=None]
+[14:47:38.366] M [SCRIPT] [INFO] - [Service:godma] - [process_session_change][finish prime][change={'status': (1, 2), 'avatar_id': (None, 'pfa014'), 'solar_system_id2': (None, 30002190), 'region_id': (None, 10000043), 'race_id': (None, 4), 'bloodline_id': (None, 5), 'corp_position': (0, 10000), 'station_id': (None, 60008500), 'corp_id': (None, 1000166), 'gender_id': (None, 0), 'ship_id': (None, 1004559685830), 'constellation_id': (None, 20000322), 'station_id2': (None, 60008500), 'world_space_id': (None, 60008500), 'char_id': (None, 10008173731), 'ship_type_id': (None, 10100000306), 'location_id': (None, 60008500), 'tech_level': (0, 2), 'char_name': (None, 'Pamela Kaamo')}]
+[14:47:38.398] M [SCRIPT] [INFO] - [DogmaLocation] - [_make_ship_active][session is mutating][sleeping for 250ms]
+[14:47:38.634] M [SCRIPT] [INFO] - [DogmaLocation] - [_make_ship_active][session is mutating][sleeping for 250ms]
+[14:47:38.900] M [SCRIPT] [INFO] - [DogmaLocation] - [_make_ship_active][session is mutating][sleeping for 250ms]
+[14:47:39.233] M [SCRIPT] [INFO] - [DogmaLocation] - [_make_ship_active][calling load_item on new ship][ship_id=1004559685830]
+[14:47:39.233] M [SCRIPT] [INFO] - [DogmaLocation] - [_make_ship_active][calling on_character_embarkation]
+[14:47:39.237] M [SCRIPT] [INFO] - [DogmaLocation] - [client_dogma_location][item_id=10008173731][item=Deteis (row data: <DBRow item_id=10008173731, type_id=93000100001, owner_id=1, location_id=1004559685830, flag=57, quantity=-1, custom_info=, lock_expire=None, group_id=93000, category_id=93, stacksize=1, singleton=1>)]
+[14:47:39.272] M [SCRIPT] [INFO] - [DogmaLocation] - [real_load_item][actually loading dogma item][item_key=10008173731][inv_item=Deteis (row data: <DBRow item_id=10008173731, type_id=93000100001, owner_id=1, location_id=1004559685830, flag=57, quantity=-1, custom_info=, lock_expire=None, group_id=93000, category_id=93, stacksize=1, singleton=1>)][new_instance=False]
+[14:47:39.287] M [SCRIPT] [INFO] - [Service:screenplay_svc] - [do_screenplay_check][watched=True][finished=True]
+[14:47:39.337] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.screen_filter][miss UIView class]
+[14:47:39.341] M [SCRIPT] [INFO] - [Service:inventory_service] - change corp_role in station or structure
+[14:47:39.401] M [AUDIO] -----Load wwise\hangar_new.bnk succeed!
+[14:47:39.456] M [SCRIPT] [autopilot2][on_session_changed][char_id]
+[14:47:39.461] M [SCRIPT] [INFO] - [Service:contract_svc] - ContractSvc stareset_char_data session=<PlayerSession sid=8962449403231221407, client_id=0, user_id=104872691, char_id=10008173731, station=60008500, structure_id=None, sol=30002190, ship_id=1004559685830, v_c=3, rv_c=3, v=4, rv=4, corp_id=1000166, status=2, role_lv=2, omega=0>
+[14:47:39.463] M [SCRIPT] [INFO] - [Service:fx_sequencer] - [FxSequencer][clear_all]
+[14:47:39.902] M [SCRIPT] [INFO] - [Service:chat_service] - [on_stangding_change][ret={'character_id': 10008173731, 'corporation_id': 1000166}]
+[14:47:39.931] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.notice_mail.notice_tips][miss UIView class]
+[14:47:39.946] M [SCRIPT] [INFO] - cocos_ext.cocos_api - [get_sprite_frame_fail][msg=spriteframe '' gui_v1/main/main_touxiang_pic.png not found]
+[14:47:40.071] M [SCRIPT] [INFO] - [DogmaLocation] - [on_character_embarkation][char_id=10008173731][ship_id=1004559685830][switching=False][raise_on_online_failure=False]
+[14:47:40.091] M [SCRIPT] [INFO] - [DogmaLocation] - [real_load_item][actually loading dogma item][item_key=1004559685830][inv_item=<DBRow item_id=1004559685830, type_id=10100000306, owner_id=10008173731, location_id=60008500, flag=4, quantity=-1, custom_info=, lock_expire=None, group_id=10100, category_id=10, stacksize=1, singleton=1>][new_instance=False]
+[14:47:40.091] M [SCRIPT] [INFO] - [DogmaLocation] - [load_items_in_location][item_id=1004559685830]
+[14:47:40.114] M [SCRIPT] [INFO] - [Service:godma] - [effects_by_item_effect][item_id=1004559734179][effect=online][start=1][active=1][duration=-1][repeat=1]
+[14:47:40.115] M [SCRIPT] [INFO] - [Service:godma] - [effects_by_item_effect][item_id=1004559735540][effect=online][start=1][active=1][duration=-1][repeat=1]
+[14:47:40.116] M [SCRIPT] [INFO] - [Service:godma] - [effects_by_item_effect][item_id=1004559734176][effect=online][start=1][active=1][duration=-1][repeat=1]
+[14:47:40.117] M [SCRIPT] [INFO] - [Service:godma] - [effects_by_item_effect][item_id=1004559734177][effect=online][start=1][active=1][duration=-1][repeat=1]
+[14:47:40.117] M [SCRIPT] [INFO] - [Service:godma] - [effects_by_item_effect][item_id=1004560491604][effect=online][start=1][active=1][duration=-1][repeat=1]
+[14:47:40.134] M [SCRIPT] [INFO] - [Service:offline_handle] - [load offline handle][type=None]
+[14:47:40.214] M [IOS] application:didRegisterForRemoteNotificationsWithDeviceToken:
+[14:47:40.465] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=industry_mgr][cost=0.0558578968048]
+[14:47:40.465] M [SCRIPT] [INFO] - [ServiceManagerClient] - [starting_dependencies][service=industry_mgr][dependency=['skills']]
+[14:47:40.466] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=industry_mgr][cost=0.057]
+[14:47:41.004] M [SCRIPT] [INFO] - MicroServiceNetClient - MicroServiceNetClient address must like :('localhost', 4000)
+[14:47:41.005] M [SCRIPT] [INFO] - MicroServiceNetClient - MicroServiceNetClient now use address: ('g85naxx2gb-nlb-micro-chat-77183c63270543a9.elb.us-east-1.amazonaws.com', 10100)
+[14:47:41.006] M [SCRIPT] [INFO] - mobilerpc.TcpClient - __init__: tcp client, connect to: (None, None)
+[14:47:41.125] M [SCRIPT] [INFO] - MicroServiceNetClient - {'need_tick': False, 'uniq_key': '20bc8b31f8ecfe172dd81f70c9e05bcc', 'uid': 'Aurora_20002_10008173731', 'product_name': 'G85NAXX2GB:Aurora_20002', 'client_version': (1, 0, 0), 'reconnect': False}
+[14:47:41.125] M [SCRIPT] [INFO] - mobilerpc.TcpClient -  disconnect with (None, None)
+[14:47:41.125] M [SCRIPT] [INFO] - mobilerpc.TcpClient - __init__: tcp client, connect to: ('g85naxx2gb-nlb-micro-chat-77183c63270543a9.elb.us-east-1.amazonaws.com', 10100)
+[14:47:41.126] M [SCRIPT] [INFO] - RpcIndexer - RPC Salt is 0
+[14:47:41.453] M [SCRIPT] [INFO] - task - [bonus_task][load_from_server or sql][{'event_id': 32, 'past_task_count': {}, 'task_count': {0: 8}}]
+[14:47:41.467] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.encounter.dungeon_task_intro][miss UIView class]
+[14:47:41.825] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=guide_svc][cost=0.285442113876]
+[14:47:41.826] M [SCRIPT] [INFO] - [ServiceManagerClient] - [starting_dependencies][service=guide_svc][dependency=['inventory_service', 'novice']]
+[14:47:41.826] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=guide_svc][cost=0.286]
+[14:47:42.110] M [SCRIPT] [INFO] - [Service:guide_svc] - [clear_guide][name=None]
+[14:47:42.111] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=guide_svc][cost=0.285][total_cost=0.570796012878]
+[14:47:42.111] M [SCRIPT] [INFO] - [Service:guide_svc] - [start_guide][name=battle_space][init_data=None]
+[14:47:42.113] M [SCRIPT] [INFO] - [Service:p2log] - [p2log][_add_pending_logs][guide_click]17:47:42.177#{'name': 'battle_space', 'event': None, 'action': 0, 'data': {}}
+[14:47:42.115] M [SCRIPT] [INFO] - [Service:p2log] - [p2log][guide_click],{'log_cache': "17:47:42.177#{'name': 'battle_space', 'event': None, 'action': 0, 'data': {}}", 'last_log_time': 1633715201.113}
+[14:47:42.115] M [SCRIPT] [INFO] - [Service:p2log] - [p2log][_add_pending_logs][guide_click]17:47:42.179#{'name': 'battle_space', 'event': 3, 'action': 1}
+[14:47:42.116] M [SCRIPT] [INFO] - [Service:p2log] - [p2log][_add_pending_logs][guide_click]17:47:42.180#{'name': 'battle_space', 'event': 3, 'action': 2, 'data': {}}
+[14:47:42.116] M [SCRIPT] [INFO] - [Service:guide_svc] - [clear_guide][name=battle_space]
+[14:47:42.116] M [SCRIPT] [INFO] - [Service:p2log] - [p2log][_add_pending_logs][guide_click]17:47:42.180#{'name': 'battle_space', 'event': 3, 'action': 3}
+[14:47:42.117] M [SCRIPT] [INFO] - [Service:p2log] - [p2log][guide_click],{'log_cache': "17:47:42.179#{'name': 'battle_space', 'event': 3, 'action': 1};17:47:42.180#{'name': 'battle_space', 'event': 3, 'action': 2, 'data': {}};17:47:42.180#{'name': 'battle_space', 'event': 3, 'action': 3}", 'last_log_time': 1633715262.113}
+[14:47:42.182] M [SCRIPT] [INFO] - [DogmaLocation] - [real_load_item][actually loading dogma item][item_key=1004560491604][inv_item=<DBRow item_id=1004560491604, type_id=11529000002, owner_id=10008173731, location_id=1004559685830, flag=11, quantity=-1, custom_info=, lock_expire=None, group_id=11529, category_id=11, stacksize=1, singleton=1>][new_instance=False]
+[14:47:42.182] M [SCRIPT] [INFO] - [DogmaLocation] - [start_module_online_effect][item_id=1004560491604][pilot_id=None][item_location=1004559685830][ship_id=1004559685830]
+[14:47:42.183] M [SCRIPT] [INFO] - server.ChannelClient - handle new connection ('23.20.151.87', 10100)
+[14:47:42.184] M [SCRIPT] [INFO] - mobilerpc.MobileRpcChannel - __init__: a new connection
+[14:47:42.184] M [SCRIPT] [INFO] - server.GateClient - we have success connected to Game server
+[14:47:42.184] M [SCRIPT] [INFO] - server.GateClient - enabling session encryption
+[14:47:42.240] M [SCRIPT] [INFO] - [DogmaLocation] - [real_load_item][actually loading dogma item][item_key=1004559734176][inv_item=<DBRow item_id=1004559734176, type_id=11503000002, owner_id=10008173731, location_id=1004559685830, flag=13, quantity=-1, custom_info=, lock_expire=None, group_id=11503, category_id=11, stacksize=1, singleton=1>][new_instance=False]
+[14:47:42.241] M [SCRIPT] [INFO] - [DogmaLocation] - [start_module_online_effect][item_id=1004559734176][pilot_id=None][item_location=1004559685830][ship_id=1004559685830]
+[14:47:42.305] M [SCRIPT] [INFO] - [DogmaLocation] - [real_load_item][actually loading dogma item][item_key=1004559735540][inv_item=<DBRow item_id=1004559735540, type_id=11002510002, owner_id=10008173731, location_id=1004559685830, flag=27, quantity=-1, custom_info=, lock_expire=None, group_id=11002, category_id=11, stacksize=1, singleton=1>][new_instance=False]
+[14:47:42.307] M [SCRIPT] [INFO] - [DogmaLocation] - [start_module_online_effect][item_id=1004559735540][pilot_id=None][item_location=1004559685830][ship_id=1004559685830]
+[14:47:42.310] M [SCRIPT] [INFO] - [Service:chat_service] - [lsc_svc][get_members][channel_id=2][channel_args=None][[10008174787, 10008163179, 10008173731, 10008174199, 10008170552, 10003902517]]
+[14:47:42.472] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\common.fx, tech name: TShader, macro id: 3601460630.
+[14:47:42.472] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\common.nfx.
+[14:47:42.486] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\fx\ubershader\ubershader.fx, tech name: TShader, macro id: 2836695535.
+[14:47:42.486] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\fx\ubershader\ubershader.nfx.
+[14:47:42.498] M [RENDER] create effect shader\fx\ubershader\ubershader.fx:TShader *** time: 11.79 ms ***
+[14:47:42.515] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\common.fx, tech name: TShader, macro id: 931474263.
+[14:47:42.515] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\common.nfx.
+[14:47:42.520] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\fx\ubershader\ubershader.fx, tech name: TShader, macro id: 952707298.
+[14:47:42.521] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\fx\ubershader\ubershader.nfx.
+[14:47:42.529] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\common.fx, tech name: TShader, macro id: 736520034.
+[14:47:42.529] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\common.nfx.
+[14:47:42.557] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: common/shader/blendadd.fx, tech name: TShader, macro id: 4262873821.
+[14:47:42.557] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: common\shader\blendadd.nfx.
+[14:47:42.566] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\fx\fxv5\fxv5.fx, tech name: TShader, macro id: 2836695535.
+[14:47:42.566] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\fx\fxv5\fxv5.nfx.
+[14:47:42.577] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\fx\fxv5\fxv5.fx, tech name: TShader, macro id: 45660022.
+[14:47:42.578] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\fx\fxv5\fxv5.nfx.
+[14:47:42.602] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/posteffects/final_composite.nfx, tech name: TShader, macro id: 0.
+[14:47:42.602] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\posteffects\final_composite.nfx.
+[14:47:42.621] M [RENDER] create effect shader/posteffects/final_composite.nfx:TShader *** time: 19.05 ms ***
+[14:47:42.637] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/built_in/shadow/shadow_receive.nfx, tech name: TShader, macro id: 3675657280.
+[14:47:42.637] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/built_in/shadow/shadow_cast.nfx, tech name: TShader, macro id: 0.
+[14:47:42.637] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/built_in/shadow/debugoutput.nfx, tech name: TShader, macro id: 0.
+[14:47:42.637] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/built_in/shadow/debugoutput.nfx, tech name: TShader, macro id: 0.
+[14:47:42.637] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/built_in/shadow/debugoutput.nfx, tech name: TShader, macro id: 0.
+[14:47:42.637] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/built_in/shadow/debugoutput.nfx, tech name: TShader, macro id: 0.
+[14:47:42.638] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/built_in/shadow/debugoutput.nfx, tech name: TShader, macro id: 0.
+[14:47:42.638] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/built_in/shadow/debugoutput.nfx, tech name: TShader, macro id: 0.
+[14:47:42.638] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/built_in/shadow/debugoutput.nfx, tech name: TShader, macro id: 0.
+[14:47:42.638] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/built_in/shadow/debugoutput.nfx, tech name: TShader, macro id: 0.
+[14:47:42.638] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/built_in/shadow/debugoutput.nfx, tech name: TShader, macro id: 0.
+[14:47:42.638] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/built_in/shadow/debugoutput.nfx, tech name: TShader, macro id: 0.
+[14:47:42.638] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/built_in/shadow/debugoutput.nfx, tech name: TShader, macro id: 0.
+[14:47:42.638] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/built_in/shadow/debugoutput.nfx, tech name: TShader, macro id: 0.
+
+WARNING *****************************************************************************
+[14:47:42.638] M [WORLD] custom render system 2 already add to scene!
+
+[14:47:42.870] M [SCRIPT] [INFO] - server.GateClient - enable new aisocre net data process, normal: 1, broadcast: 3
+[14:47:42.880] M [SCRIPT] [INFO] - [DogmaLocation] - [real_load_item][actually loading dogma item][item_key=1004559734177][inv_item=<DBRow item_id=1004559734177, type_id=11304500002, owner_id=10008173731, location_id=1004559685830, flag=12, quantity=-1, custom_info=, lock_expire=None, group_id=11304, category_id=11, stacksize=1, singleton=1>][new_instance=False]
+[14:47:42.883] M [SCRIPT] [INFO] - [DogmaLocation] - [start_module_online_effect][item_id=1004559734177][pilot_id=None][item_location=1004559685830][ship_id=1004559685830]
+[14:47:42.968] M [SCRIPT] [INFO] - [DogmaLocation] - [real_load_item][actually loading dogma item][item_key=1004559734179][inv_item=<DBRow item_id=1004559734179, type_id=11002510002, owner_id=10008173731, location_id=1004559685830, flag=28, quantity=-1, custom_info=, lock_expire=None, group_id=11002, category_id=11, stacksize=1, singleton=1>][new_instance=False]
+[14:47:42.969] M [SCRIPT] [INFO] - [DogmaLocation] - [start_module_online_effect][item_id=1004559734179][pilot_id=None][item_location=1004559685830][ship_id=1004559685830]
+[14:47:43.099] M [SCRIPT] [INFO] - [DogmaLogger] - [handle_location_change][old_location_id=None][location_id=1004559685830][new_location=<ShipDogmaItem id=1004559685830 tp=10100000306 loc=60008500 f=4 o=False>][inv_item=Deteis (row data: <DBRow item_id=10008173731, type_id=93000100001, owner_id=1, location_id=1004559685830, flag=57, quantity=-1, custom_info=, lock_expire=None, group_id=93000, category_id=93, stacksize=1, singleton=1>)]
+[14:47:43.121] M [SCRIPT] [INFO] - [DogmaLocation] - [apply_brain_effects][begin][ship_id=1004559685830][char_id=10008173731][debug_str=_on_character_embarkation][brain=<BrainData 0x127da4940 char_id=10008173731, version=1, skills=17, d=15, q=False>]
+[14:47:43.172] M [SCRIPT] [INFO] - [DogmaLocation] - [start_module_online_effect][item_id=1004559734179][pilot_id=10008173731][item_location=1004559685830][ship_id=1004559685830]
+[14:47:43.176] M [SCRIPT] [INFO] - [DogmaLocation] - [start_module_online_effect][item_id=1004559735540][pilot_id=10008173731][item_location=1004559685830][ship_id=1004559685830]
+[14:47:43.178] M [SCRIPT] [INFO] - [DogmaLocation] - [start_module_online_effect][item_id=1004559734176][pilot_id=10008173731][item_location=1004559685830][ship_id=1004559685830]
+[14:47:43.181] M [SCRIPT] [INFO] - [DogmaLocation] - [start_module_online_effect][item_id=1004559734177][pilot_id=10008173731][item_location=1004559685830][ship_id=1004559685830]
+[14:47:43.183] M [SCRIPT] [INFO] - [DogmaLocation] - [start_module_online_effect][item_id=1004560491604][pilot_id=10008173731][item_location=1004559685830][ship_id=1004559685830]
+[14:47:43.231] M [SCRIPT] [INFO] - [DogmaLocation] - [set_weapon_banks][end][ship_id=1004559685830][current=defaultdict(<type 'set'>, {})]
+[14:47:43.232] M [SCRIPT] [INFO] - [DogmaLocation] - [on_character_embarkation][char_id=10008173731][ship_id=1004559685830][switching=False][raise_on_online_failure=False]
+[14:47:43.232] M [SCRIPT] [ERROR] - [DogmaLocation] - [on_character_embarkation][charcter already embarked? Are we doing things out of order][char_id=10008173731][ship_id=1004559685830][switching=False]
+[14:47:43.232] M [SCRIPT] [INFO] - [DogmaLocation] - [_make_ship_active][calling set_weapon_banks]
+[14:47:43.232] M [SCRIPT] [INFO] - [DogmaLocation] - [set_weapon_banks][end][ship_id=1004559685830][current=defaultdict(<type 'set'>, {})]
+[14:47:43.233] M [SCRIPT] [INFO] - [DogmaLocation] - [load_items_in_location][item_id=1004559685830]
+[14:47:43.234] M [SCRIPT] [INFO] - [DogmaLocation] - _make_ship_active: DONE
+[14:47:43.699] M [SCRIPT] [INFO] - server.GateClient - send connect_server request to ('g85naxx2gb-nlb-micro-chat-77183c63270543a9.elb.us-east-1.amazonaws.com', 10100)
+[14:47:44.012] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=drop_mgr][cost=0.00496506690979]
+[14:47:44.013] M [SCRIPT] [INFO] - [ServiceManagerClient] - [starting_dependencies][service=drop_mgr][dependency=['macho_net']]
+[14:47:44.013] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=drop_mgr][cost=0.006]
+[14:47:44.014] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=drop_mgr][cost=0.001][total_cost=0.00650501251221]
+[14:47:44.022] M [SCRIPT] [INFO] - [Service:chat_service] - [lsc_svc][get_members][channel_id=7][channel_args=None][[10005145604, 10009136133, 10000151213, 10009283612, 10005873669, 10009820192, 10007260193, 10000710694, 10009518127, 10000217150, 10000100415, 10000069711, 10007964753, 10009080916, 10007132264, 10005067881, 10003884170, 10009908366, 10003582098, 10007069845, 10003517596, 10000096417, 10005086370, 10008173731, 10006174919, 10008174792, 10009383123, 10010181844, 10007097558, 10005049569, 10007801059, 10009814244, 10007720173, 10006253806, 10010177235, 10003555578, 10010273020, 10009102590, 10000053504, 10001941762, 10006254858, 10007898383, 10003712272, 10007257363, 10000123158, 10005632900, 10009123099, 10009054496, 10009659688, 10006171945, 10003509552, 10007572801, 10009776450, 10000664904, 10008028489, 10006199626, 10007026004, 10005189981, 10006143328, 10006241634, 10007180653, 10009862516, 10009468990, 10009864568, 10005238138, 10007326077, 10000056702, 10009334678, 10010107800, 10007274904, 10008154524, 10003634594, 10000057766, 10007056813, 10009152956, 10009416131, 10007363013, 10007744973, 10009966030, 10007058895, 10000405969, 10003966419, 10010301416, 10008073694, 10000167395, 10010281444, 10000126438, 10000153074, 10006211084, 10000756243, 10006246946, 10008168997, 10007066153, 10009754155, 10009078327, 10008171069, 10006236735, 10010059330, 10003967556, 10007049798, 10007098956, 10006255187, 10009234010, 10007736931, 10005235302, 10006132332, 10007065198, 10010181233, 10000623218, 10005187189, 10003967609, 10003784314, 10009082491, 10009291390, 10010244741, 10000126599, 10005044875, 10002200206, 10009335442, 10000880288, 10000107170, 10000117532, 10010305197, 10009179829, 10009557687, 10010343103, 10008094406, 10000148169, 10007994064, 10000384757, 10000157402, 10009532128, 10010345186, 10003958499, 10006252260, 10000245479, 10010146539, 10007152370, 10010057459, 10009143029, 10005188350, 10010121983, 10010307328, 10000910547, 10009854743, 10009663256, 10009040626, 10005130012, 10010342178, 10003921692, 10000109366, 10002117432, 10003947321, 10000082751, 10005471046, 10002572107, 10009973580, 10003829582, 10008175440, 10000138040, 10009941847, 10003440472, 10007077722, 10010346333, 10009075552, 10007689066, 10000408433, 10010346361, 10010205050, 10000093055, 10010158977, 10010262404, 10010341261, 10005054350, 10010258322, 10002056085, 10007248790, 10008174488, 10010259367, 10005153707, 10007660461, 10010329035, 10003453902, 10005189595, 10007019487, 10000514016, 10000008165, 10010267624, 10009527618, 10007705584, 10000082601, 10009094141]]
+[14:47:44.034] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=skin_svc][cost=0.00808882713318]
+[14:47:44.035] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=skin_svc][cost=0.009]
+[14:47:44.035] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=skin_svc][cost=0.000][total_cost=0.00906586647034]
+[14:47:44.044] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=office_svc][cost=0.00301694869995]
+[14:47:44.045] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=office_svc][cost=0.004]
+[14:47:44.045] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=office_svc][cost=0.001][total_cost=0.00416111946106]
+[14:47:44.046] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=industry_mgr][cost=3.580][total_cost=3.63694810867]
+[14:47:44.066] M [SCRIPT] [INFO] - server.EntityManager - addentity  entity id  6160843f75f17a131094bb93 
+[14:47:44.067] M [SCRIPT] [INFO] - MsClientEntity - on_entity_creation, id 6160843f75f17a131094bb93
+[14:47:44.067] M [SCRIPT] [INFO] - server.GateClient - create_entity:MsClientEntity (6160843f75f17a131094bb93) successed
+[14:47:44.099] M [SCRIPT] [INFO] - MicroServiceNetClient - _on_connect_reply, result: connect success
+[14:47:44.099] M [SCRIPT] [INFO] - MicroServiceNetClient - connect success: 6160843f75f17a131094bb93
+[14:47:44.099] M [SCRIPT] [INFO] - MicroServiceNetClient - ----------process_net_callback: on_connect_success---------------
+[14:47:44.100] M [SCRIPT] [INFO] - [MsNetHandler] - [on_connect_success][entity_id=6160843f75f17a131094bb93][auth_info={'need_tick': False, 'uid': 'Aurora_20002_10008173731', 'inf_infos': {'BroadCast': {10: [['on_receive_broadcast_message', '', '\xe5\x90\x91\xe5\x85\xa8\xe4\xb8\x96\xe7\x95\x8c\xe5\xb9\xbf\xe6\x92\xad\xe7\x9a\x84\xe4\xbf\xa1\xe6\x81\xaf\xe9\x80\x9a\xe7\x9f\xa5', [['info', '\xe6\xad\xa3\xe6\x96\x87\xe5\x86\x85\xe5\xae\xb9\xe5\x88\x97\xe8\xa1\xa8'], ['group_type', '\xe5\xb9\xbf\xe6\x92\xad\xe9\xa2\x91\xe9\x81\x93\xe7\xb1\xbb\xe5\x9e\x8b'], ['group_id', '\xe5\xb9\xbf\xe6\x92\xad\xe9\xa2\x91\xe9\x81\x93id']], {}], ['on_broadcast_group_reconnected', '', '\xe9\x87\x8d\xe8\xbf\x9e\xe6\x88\x90\xe5\x8a\x9f\xe6\x97\xb6\xe9\x80\x9a\xe7\x9f\xa5\xe6\x8e\x89\xe7\xba\xbf\xe5\x89\x8d\xe7\x9a\x84\xe9\xa2\x91\xe9\x81\x93\xe4\xbf\xa1\xe6\x81\xaf', [['channel_dict', '\xe5\xb7\xb2\xe7\xbb\x8f\xe6\xb3\xa8\xe5\x86\x8c\xe7\x9a\x84\xe6\x89\x80\xe6\x9c\x89\xe9\xa2\x91\xe9\x81\x93']], {}]]}, 'MobilePhone': {}}, 'new_entity': True, 'token': '3AC0FX#O', 'reconnect': False, 'uniq_key': '20bc8b31f8ecfe172dd81f70c9e05bcc', 'client_version': [1, 0, 0], 'product_name': 'G85NAXX2GB:Aurora_20002', 'rid': ObjectId('6160843f75f17a131094bb94')}]
+[14:47:44.100] M [SCRIPT] [WARNING] - MsClientEntity - no authority to process update_mailbox
+[14:47:44.101] M [SCRIPT] [INFO] - MicroServiceNetClient - ----------process_net_callback: on_global_msclient_ready---------------
+[14:47:44.101] M [SCRIPT] [INFO] - [Service:chat_micro_service] - [on_microservice_ready][new_entity=True]
+[14:47:44.101] M [SCRIPT] [INFO] - [MsNetHandler] - [on_global_msclient_ready][entity=<dh_ms_sdk2.MsSDK.entities.MsClientEntity.MsClientEntity object at 0x12beea4e0>][client=<dh_ms_sdk2.MsSDK.MicroServiceNetClient.MicroServiceNetClient object at 0x1293ab518>][is_new_entity=True]
+[14:47:45.875] M [SCRIPT] [INFO] - [Service:guide_svc] - [start_guide][name=battle_space][init_data=None]
+[14:47:45.876] M [SCRIPT] [INFO] - [Service:p2log] - [p2log][_add_pending_logs][guide_click]17:47:45.940#{'name': 'battle_space', 'event': None, 'action': 0, 'data': {}}
+[14:47:46.265] L [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\fx\booster\booster.fx, tech name: TShader, macro id: 4088801808.
+[14:47:46.265] L [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\fx\booster\booster.nfx.
+[14:47:46.269] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.station.main][miss UIView class]
+[14:47:46.277] L [RENDER] create effect shader\fx\booster\booster.fx:TShader *** time: 12.78 ms ***
+
+WARNING *****************************************************************************
+[14:47:46.279] L [RENDER] Device do not support texture model/booster/shape01.tga format R8G8B8, try to convert it to A8B8G8R8
+[TRACEBACK] [WORLD] Loading gim file: model\booster\booster.gim
+
+[14:47:46.283] L [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\fx\booster\booster.fx, tech name: TShader, macro id: 2067114151.
+[14:47:46.284] L [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\fx\booster\booster.nfx.
+[14:47:46.293] L [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\fx\booster\booster_glow.fx, tech name: TShader, macro id: 2376595178.
+[14:47:46.293] L [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\fx\booster\booster_glow.nfx.
+[14:47:46.309] L [RENDER] create effect shader\fx\booster\booster_glow.fx:TShader *** time: 16.32 ms ***
+[14:47:46.313] L [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\fx\booster\booster_glow.fx, tech name: TShader, macro id: 3954623016.
+[14:47:46.313] L [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\fx\booster\booster_glow.nfx.
+[14:47:46.325] L [RENDER] create effect shader\fx\booster\booster_glow.fx:TShader *** time: 11.26 ms ***
+[14:47:46.787] M [SCRIPT] [INFO] - cocos_ext.cocos_api - [get_sprite_frame_fail][msg=spriteframe '' gui_v1/main/main_touxiang_pic.png not found]
+[14:47:47.041] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=sovereignty_mgr][cost=0.00780606269836]
+[14:47:47.041] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=sovereignty_mgr][cost=0.008]
+[14:47:48.232] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\fx\planeglow\planeglow.fx, tech name: TShader, macro id: 0.
+[14:47:48.233] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\fx\planeglow\planeglow.nfx.
+[14:47:48.253] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/fx/spotlight/spotlightconepool.fx, tech name: TShader, macro id: 0.
+[14:47:48.253] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\fx\spotlight\spotlightconepool.nfx.
+[14:47:48.258] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader/fx/spotlight/spotlightglowpool.fx, tech name: TShader, macro id: 0.
+[14:47:48.258] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\fx\spotlight\spotlightglowpool.nfx.
+[14:47:48.288] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: common\shader\simpletech.fx, tech name: TShader, macro id: 741551814.
+[14:47:48.289] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: common\shader\simpletech.nfx.
+[14:47:48.343] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\fx\booster\booster.fx, tech name: TShader, macro id: 2036852338.
+[14:47:48.343] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\fx\booster\booster.nfx.
+[14:47:48.352] M [RENDER] [INFO] [shader] *** TechniqueMgr::CreateEffect, filename: shader\fx\booster\booster_glow.fx, tech name: TShader, macro id: 1962407523.
+[14:47:48.352] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\fx\booster\booster_glow.nfx.
+[14:47:54.823] M [SCRIPT] [autopilot2][on_session_changed][system_id]
+[14:47:57.290] M [SCRIPT] _init_all_sovereignty: took 9.09594297409s
+[14:47:57.292] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=sovereignty_mgr][cost=10.251][total_cost=10.2591199875]
+[14:47:57.296] M [SCRIPT] [WARNING] - contact_svc - [parse_json][path=/private/var/mobile/Containers/Data/Application/709B29BA-FA39-46C6-A145-439B1F4D017F/Documents/contact/2000210008173731/recent_contact.json][exception=No JSON object could be decoded]
+[14:47:57.307] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=skill_queue][cost=0.0102360248566]
+[14:47:57.308] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=skill_queue][cost=0.011]
+[14:47:57.308] M [SCRIPT] [INFO] - [Service:skill_queue] - client start skill_queue svc
+[14:47:57.599] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=skill_queue][cost=0.292][total_cost=0.302644968033]
+[14:47:57.616] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=fitting][cost=0.0161609649658]
+[14:47:57.616] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=fitting][cost=0.017]
+[14:47:57.617] M [SCRIPT] [INFO] - [Service:fitting] - client start fitting svc
+[14:47:57.933] M [SCRIPT] [INFO] - main_ui_icons - [show_sovereignty_panel][system_id=30002190][can_capture=2][corp_id=0][alliance_id=0][faction_id=500003]
+[14:47:58.100] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=fitting][cost=0.484][total_cost=0.500291109085]
+[14:47:58.116] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=reward_login_mgr][cost=0.0155429840088]
+[14:47:58.117] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=reward_login_mgr][cost=0.016]
+[14:47:58.117] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=reward_login_mgr][cost=0.000][total_cost=0.0162668228149]
+[14:47:58.131] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.live_event.main][miss UIView class]
+[14:47:58.156] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.ui_common.common_pnl_quickswitch][miss UIView class]
+[14:47:58.907] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start_service][create][service=station_svc][cost=0.0046648979187]
+[14:47:58.908] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][before run][service=station_svc][cost=0.005]
+[14:47:58.908] M [SCRIPT] [INFO] - [ServiceManagerClient] - [start service][finish][service=station_svc][cost=0.000][total_cost=0.00551700592041]
+[14:48:00.071] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:00.348] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:00.411] M [SCRIPT] [INFO] - [Service:p2log] - [p2log][_add_pending_logs][ui_log]17:48:01.003#{'ui_name': 'live_event.main', 'action': 'show', 'entrance': 'auto'}
+[14:48:00.413] M [SCRIPT] [INFO] - [Service:p2log] - [p2log][ui_log],{'log_cache': "17:48:01.003#{'ui_name': 'live_event.main', 'action': 'show', 'entrance': 'auto'}", 'last_log_time': 1633715219.411}
+[14:48:00.514] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:00.521] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:00.556] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:00.566] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:00.593] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:00.602] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:00.631] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:00.640] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:00.667] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:00.676] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:00.697] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:00.709] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:00.751] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:00.758] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:00.840] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:00.847] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:00.868] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:00.875] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:00.913] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:00.923] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:00.940] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:00.947] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:00.973] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:00.982] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:00.997] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:01.004] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:01.073] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:01.080] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:01.108] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:01.117] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:01.143] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:01.150] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:01.175] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:01.183] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:01.211] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:01.218] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:01.243] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:01.252] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:01.283] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:01.291] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:01.314] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:01.323] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:01.345] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:01.354] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:01.378] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:01.386] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:01.412] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:01.421] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:01.446] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:01.454] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:01.475] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:01.487] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:01.579] M [SCRIPT] ('drpf success', 0, 'Load')
+[14:48:01.643] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:01.651] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:02.021] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:02.029] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:02.037] M [SCRIPT] [INFO] - main_ui_icons - [show_sovereignty_panel][system_id=30002190][can_capture=2][corp_id=0][alliance_id=0][faction_id=500003]
+[14:48:02.073] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:02.080] M [RENDER] [INFO] [shader] *** EffectMgr::CreateObj, filename: shader\ui\diffusion02.spx.
+[14:48:11.367] M [SCRIPT] [INFO] - reward_login - [click_btn_alpha][day_status={'icon_path': 'gui_v1/icon/item/27116000520.png', 'num': 5, 'status': 3, 'type': 0}][clone_level=0]
+[14:48:11.369] M [SCRIPT] ('>> ui_show', 'tips.confirm', 'kwargs:', '{}')
+[14:48:11.370] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.tips.confirm][miss UIView class]
+[14:48:11.481] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.ui_common.common_screen][miss UIView class]
+[14:48:18.234] M [SCRIPT] [INFO] - reward_login - [click_btn_alpha][day_status={'icon_path': 'gui_v1/icon/item/27116000500.png', 'num': 5000, 'status': 3, 'type': 0}][clone_level=0]
+[14:48:18.235] M [SCRIPT] ('>> ui_show', 'tips.confirm', 'kwargs:', '{}')
+[14:48:18.236] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.tips.confirm][miss UIView class]
+[14:48:18.295] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.ui_common.common_screen][miss UIView class]
+[14:48:22.601] M [SCRIPT] [INFO] - reward_login - [click_btn_alpha][day_status={'icon_path': 'gui_v1/icon/item/28011000101.png', 'num': 1, 'status': 0, 'type': 0}][clone_level=0]
+[14:48:22.603] M [SCRIPT] ('>> ui_show', 'tips.confirm', 'kwargs:', '{}')
+[14:48:22.604] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.tips.confirm][miss UIView class]
+[14:48:22.676] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.ui_common.common_screen][miss UIView class]
+[14:48:27.970] M [SCRIPT] [INFO] - reward_login - [click_btn_alpha][day_status={'icon_path': 'gui_v1/icon/item/27116000520.png', 'num': 5, 'status': 3, 'type': 0}][clone_level=0]
+[14:48:27.973] M [SCRIPT] ('>> ui_show', 'tips.confirm', 'kwargs:', '{}')
+[14:48:27.974] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.tips.confirm][miss UIView class]
+[14:48:28.069] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.ui_common.common_screen][miss UIView class]
+[14:48:31.835] M [SCRIPT] [INFO] - [detect start][scene_id=11]
+[14:48:31.838] M [SCRIPT] [INFO] - [detect end][scene_id=11]
+[14:48:33.499] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.tips_new.tip_panel][miss UIView class]
+[14:48:33.578] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.ui_common.common_screen][miss UIView class]
+[14:48:50.035] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.tips_new.tip_panel][miss UIView class]
+[14:48:50.179] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.ui_common.common_screen][miss UIView class]
+[14:48:57.402] M [SCRIPT] [INFO] - reward_login - [click_btn_alpha][day_status={'icon_path': 'gui_v1/icon/item/27116000520.png', 'num': 5, 'status': 3, 'type': 0}][clone_level=0]
+[14:48:57.403] M [SCRIPT] ('>> ui_show', 'tips.confirm', 'kwargs:', '{}')
+[14:48:57.404] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.tips.confirm][miss UIView class]
+[14:48:57.459] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.ui_common.common_screen][miss UIView class]
+[14:49:02.535] M [SCRIPT] [INFO] - reward_login - [click_btn_alpha][day_status={'icon_path': 'gui_v1/icon/item/27116000500.png', 'num': 5000, 'status': 3, 'type': 0}][clone_level=0]
+[14:49:02.538] M [SCRIPT] ('>> ui_show', 'tips.confirm', 'kwargs:', '{}')
+[14:49:02.538] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.tips.confirm][miss UIView class]
+[14:49:02.592] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.ui_common.common_screen][miss UIView class]
+[14:49:06.202] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.tips_new.tip_panel][miss UIView class]
+[14:49:06.298] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.ui_common.common_screen][miss UIView class]
+[14:49:11.772] M [SCRIPT] [INFO] - reward_login - [click_btn_alpha][day_status={'icon_path': 'gui_v1/icon/item/27116000520.png', 'num': 5, 'status': 3, 'type': 0}][clone_level=0]
+[14:49:11.773] M [SCRIPT] ('>> ui_show', 'tips.confirm', 'kwargs:', '{}')
+[14:49:11.774] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.tips.confirm][miss UIView class]
+[14:49:11.845] M [SCRIPT] [WARNING] - ui_manager.utility - [get_uiview_class][module=ui_new.ui_common.common_screen][miss UIView class]
+[14:49:28.508] M [IOS] application:supportedInterfaceOrientationsForWindow:
+[14:49:28.508] M [IOS] application:supportedInterfaceOrientationsForWindow: return 24
+[14:49:28.510] M [IOS] application:supportedInterfaceOrientationsForWindow:
+[14:49:28.510] M [IOS] application:supportedInterfaceOrientationsForWindow: return 24
+[14:49:28.510] M [IOS] application:supportedInterfaceOrientationsForWindow:
+[14:49:28.510] M [IOS] application:supportedInterfaceOrientationsForWindow: return 24
+[14:49:28.517] M [IOS] application:supportedInterfaceOrientationsForWindow:
+[14:49:28.517] M [IOS] application:supportedInterfaceOrientationsForWindow: return 24
+[14:49:28.518] M [IOS] application:supportedInterfaceOrientationsForWindow:
+[14:49:28.518] M [IOS] application:supportedInterfaceOrientationsForWindow: return 24
+[14:49:28.518] M [IOS] application:supportedInterfaceOrientationsForWindow:
+[14:49:28.518] M [IOS] application:supportedInterfaceOrientationsForWindow: return 24
+[14:49:28.518] M [IOS] application:supportedInterfaceOrientationsForWindow:
+[14:49:28.519] M [IOS] application:supportedInterfaceOrientationsForWindow: return 24
+[14:49:28.522] M [IOS] application:supportedInterfaceOrientationsForWindow:
+[14:49:28.522] M [IOS] application:supportedInterfaceOrientationsForWindow: return 24
+[14:49:32.136] M [SCRIPT] [INFO] - [detect start][scene_id=11]
+[14:49:32.137] M [SCRIPT] [INFO] - [detect end][scene_id=11]
+[14:49:40.588] M [IOS] applicationWillResignActive:
+[14:49:40.588] M [SCRIPT] [INFO][on_pause]
+[14:49:41.860] M [IOS] applicationDidEnterBackground:
+[14:49:41.935] M [IOS] applicationWillTerminate:
+[14:49:41.938] M Call script game.on_exit().

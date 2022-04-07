@@ -1,0 +1,20 @@
+{
+    "aa_quality": 2, 
+    "device_performance": 2, 
+    "effect_quality": 2, 
+    "light_quality": 2, 
+    "lod_quality": 2, 
+    "material_quality": 2, 
+    "msaa_samples": 2, 
+    "post_effect_level": 1, 
+    "postprocess_quality": 2, 
+    "redirect_scale": 0.75, 
+    "sfx_level": 1, 
+    "shader_level": 1, 
+    "shadow_on_off": 1, 
+    "shadow_quality": 1, 
+    "sundry_level": 1, 
+    "texture_quality": 2, 
+    "version": 1, 
+    "volumetric_fog_on_off": 0
+}
